@@ -1,0 +1,48 @@
+#proc page
+                                                                                
+#proc areadef
+  rectangle: 0 0 2.5 2
+  xrange: 0 1
+  yrange: 0 1
+//  xaxis.tics: none
+//  yaxis.tics: none
+//  xaxis.stubhide: yes
+//  yaxis.stubhide: yes
+                                                                                
+#proc getdata
+ data:
+MPI_Iprobe 5194.22 red MPI_Iprobe
+MPI_Isend 208.2515 green MPI_Isend
+MPI_Barrier 172.99335 blue MPI_Barrier
+MPI_Test 164.77353 yellow MPI_Test
+MPI_Allreduce 151.03626 purple MPI_Allreduce
+MPI_Recv 148.96954 coral MPI_Recv
+MPI_Bcast 83.88044 orange MPI_Bcast
+MPI_Allgather 8.256443 darkblue MPI_Allgather
+MPI_Comm_dup 0.3227279 limegreen MPI_Comm_dup
+MPI_Send 0.1523907 skyblue MPI_Send
+MPI_Comm_group 0.10930952 claret MPI_Comm_group
+MPI_Comm_size 0.10482791 teal MPI_Comm_size
+MPI_Comm_rank 0.09522608 magenta MPI_Comm_rank
+MPI_Reduce 0.0585925 brightblue MPI_Reduce
+MPI_Comm_create 0.04529524 black MPI_Comm_create
+MPI_Testall 0.02625536 lightpurple MPI_Testall
+MPI_Comm_free 0.022862226 kelleygreen MPI_Comm_free
+MPI_Waitall 0.01787746 yellowgreen MPI_Waitall
+MPI_Irecv 0.00691934 redorange MPI_Irecv
+MPI_Comm_split 0.00336886 darkblue MPI_Comm_split
+MPI_Rsend 0.0018425 tan1 MPI_Rsend
+MPI_Init 0 drabgreen MPI_Init
+MPI_Finalize 0 yellow2 MPI_Finalize
+ 
+#proc pie
+ firstslice: 0
+ datafield: 2
+ labelfield: 1
+ exactcolorfield: 3
+ center: 0.5(s) 0.6(s)
+ radius: 0.4(s)
+  
+#proc legend
+ location: 1.1(s) 1.2(s)
+ 

@@ -1,0 +1,1001 @@
+ibwarn: [3118008] get_smi_gsi_pair: Can't open SMI UMAD port (Input/output error) (mlx5_0:1)
+ibwarn: [3118008] mad_rpc_open_port2: can't open UMAD port ((null):0)
+Failed to open (null) port 0
+/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/torch/cuda/__init__.py:63: FutureWarning: The pynvml package is deprecated. Please install nvidia-ml-py instead. If you did not install pynvml directly, please report this to the maintainers of the package that installed pynvml for you.
+  import pynvml  # type: ignore[import]
+/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/torch/cuda/__init__.py:63: FutureWarning: The pynvml package is deprecated. Please install nvidia-ml-py instead. If you did not install pynvml directly, please report this to the maintainers of the package that installed pynvml for you.
+  import pynvml  # type: ignore[import]
+A new version of the following files was downloaded from https://huggingface.co/deepseek-ai/DeepSeek-R1:
+- configuration_deepseek.py
+. Make sure to double-check they do not contain any added malicious code. To avoid downloading new versions of the code file, you can pin a revision.
+`torch_dtype` is deprecated! Use `dtype` instead!
+WARNING:sglang.srt.server_args:DP attention is enabled. The chunked prefill size is adjusted to 4096 to avoid MoE kernel issues. 
+WARNING:sglang.srt.server_args:Pipeline parallelism is incompatible with overlap schedule.
+WARNING:sglang.srt.server_args:DP attention is enabled. The chunked prefill size is adjusted to 2048 to avoid MoE kernel issues. 
+WARNING:sglang.srt.server_args:Pipeline parallelism is incompatible with overlap schedule.
+/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/torch/cuda/__init__.py:63: FutureWarning: The pynvml package is deprecated. Please install nvidia-ml-py instead. If you did not install pynvml directly, please report this to the maintainers of the package that installed pynvml for you.
+  import pynvml  # type: ignore[import]
+A new version of the following files was downloaded from https://huggingface.co/deepseek-ai/DeepSeek-R1:
+- configuration_deepseek.py
+. Make sure to double-check they do not contain any added malicious code. To avoid downloading new versions of the code file, you can pin a revision.
+`torch_dtype` is deprecated! Use `dtype` instead!
+WARNING:sglang.srt.server_args:DP attention is enabled. The chunked prefill size is adjusted to 4096 to avoid MoE kernel issues. 
+WARNING:sglang.srt.server_args:Pipeline parallelism is incompatible with overlap schedule.
+WARNING:sglang.srt.server_args:DP attention is enabled. The chunked prefill size is adjusted to 2048 to avoid MoE kernel issues. 
+WARNING:sglang.srt.server_args:Pipeline parallelism is incompatible with overlap schedule.
+[2025-10-26 02:09:59] Using default HuggingFace chat template with detected content format: string
+/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/torch/cuda/__init__.py:63: FutureWarning: The pynvml package is deprecated. Please install nvidia-ml-py instead. If you did not install pynvml directly, please report this to the maintainers of the package that installed pynvml for you.
+  import pynvml  # type: ignore[import]
+/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/torch/cuda/__init__.py:63: FutureWarning: The pynvml package is deprecated. Please install nvidia-ml-py instead. If you did not install pynvml directly, please report this to the maintainers of the package that installed pynvml for you.
+  import pynvml  # type: ignore[import]
+/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/torch/cuda/__init__.py:63: FutureWarning: The pynvml package is deprecated. Please install nvidia-ml-py instead. If you did not install pynvml directly, please report this to the maintainers of the package that installed pynvml for you.
+  import pynvml  # type: ignore[import]
+/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/torch/cuda/__init__.py:63: FutureWarning: The pynvml package is deprecated. Please install nvidia-ml-py instead. If you did not install pynvml directly, please report this to the maintainers of the package that installed pynvml for you.
+  import pynvml  # type: ignore[import]
+/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/torch/cuda/__init__.py:63: FutureWarning: The pynvml package is deprecated. Please install nvidia-ml-py instead. If you did not install pynvml directly, please report this to the maintainers of the package that installed pynvml for you.
+  import pynvml  # type: ignore[import]
+/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/torch/cuda/__init__.py:63: FutureWarning: The pynvml package is deprecated. Please install nvidia-ml-py instead. If you did not install pynvml directly, please report this to the maintainers of the package that installed pynvml for you.
+  import pynvml  # type: ignore[import]
+/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/torch/cuda/__init__.py:63: FutureWarning: The pynvml package is deprecated. Please install nvidia-ml-py instead. If you did not install pynvml directly, please report this to the maintainers of the package that installed pynvml for you.
+  import pynvml  # type: ignore[import]
+/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/torch/cuda/__init__.py:63: FutureWarning: The pynvml package is deprecated. Please install nvidia-ml-py instead. If you did not install pynvml directly, please report this to the maintainers of the package that installed pynvml for you.
+  import pynvml  # type: ignore[import]
+/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/torch/cuda/__init__.py:63: FutureWarning: The pynvml package is deprecated. Please install nvidia-ml-py instead. If you did not install pynvml directly, please report this to the maintainers of the package that installed pynvml for you.
+  import pynvml  # type: ignore[import]
+/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/torch/cuda/__init__.py:63: FutureWarning: The pynvml package is deprecated. Please install nvidia-ml-py instead. If you did not install pynvml directly, please report this to the maintainers of the package that installed pynvml for you.
+  import pynvml  # type: ignore[import]
+/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/torch/cuda/__init__.py:63: FutureWarning: The pynvml package is deprecated. Please install nvidia-ml-py instead. If you did not install pynvml directly, please report this to the maintainers of the package that installed pynvml for you.
+  import pynvml  # type: ignore[import]
+/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/torch/cuda/__init__.py:63: FutureWarning: The pynvml package is deprecated. Please install nvidia-ml-py instead. If you did not install pynvml directly, please report this to the maintainers of the package that installed pynvml for you.
+  import pynvml  # type: ignore[import]
+/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/torch/cuda/__init__.py:63: FutureWarning: The pynvml package is deprecated. Please install nvidia-ml-py instead. If you did not install pynvml directly, please report this to the maintainers of the package that installed pynvml for you.
+  import pynvml  # type: ignore[import]
+/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/torch/cuda/__init__.py:63: FutureWarning: The pynvml package is deprecated. Please install nvidia-ml-py instead. If you did not install pynvml directly, please report this to the maintainers of the package that installed pynvml for you.
+  import pynvml  # type: ignore[import]
+/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/torch/cuda/__init__.py:63: FutureWarning: The pynvml package is deprecated. Please install nvidia-ml-py instead. If you did not install pynvml directly, please report this to the maintainers of the package that installed pynvml for you.
+  import pynvml  # type: ignore[import]
+/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/torch/cuda/__init__.py:63: FutureWarning: The pynvml package is deprecated. Please install nvidia-ml-py instead. If you did not install pynvml directly, please report this to the maintainers of the package that installed pynvml for you.
+  import pynvml  # type: ignore[import]
+/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/torch/cuda/__init__.py:63: FutureWarning: The pynvml package is deprecated. Please install nvidia-ml-py instead. If you did not install pynvml directly, please report this to the maintainers of the package that installed pynvml for you.
+  import pynvml  # type: ignore[import]
+/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/torch/cuda/__init__.py:63: FutureWarning: The pynvml package is deprecated. Please install nvidia-ml-py instead. If you did not install pynvml directly, please report this to the maintainers of the package that installed pynvml for you.
+  import pynvml  # type: ignore[import]
+`torch_dtype` is deprecated! Use `dtype` instead!
+`torch_dtype` is deprecated! Use `dtype` instead!
+`torch_dtype` is deprecated! Use `dtype` instead!
+`torch_dtype` is deprecated! Use `dtype` instead!
+`torch_dtype` is deprecated! Use `dtype` instead!
+`torch_dtype` is deprecated! Use `dtype` instead!
+`torch_dtype` is deprecated! Use `dtype` instead!
+`torch_dtype` is deprecated! Use `dtype` instead!
+[2025-10-26 14:10:28 DP0 TP0 PP2] Attention backend not explicitly specified. Use fa3 backend by default.
+[2025-10-26 14:10:28 DP0 TP0 PP2] Chunked prefix cache is turned on.
+[2025-10-26 14:10:28 DP0 TP0 PP2] Init torch distributed begin.
+[2025-10-26 14:10:28 DP0 TP0 PP3] Attention backend not explicitly specified. Use fa3 backend by default.
+[2025-10-26 14:10:28 DP0 TP0 PP3] Chunked prefix cache is turned on.
+[2025-10-26 14:10:28 DP0 TP0 PP3] Init torch distributed begin.
+`torch_dtype` is deprecated! Use `dtype` instead!
+`torch_dtype` is deprecated! Use `dtype` instead!
+`torch_dtype` is deprecated! Use `dtype` instead!
+`torch_dtype` is deprecated! Use `dtype` instead!
+`torch_dtype` is deprecated! Use `dtype` instead!
+`torch_dtype` is deprecated! Use `dtype` instead!
+`torch_dtype` is deprecated! Use `dtype` instead!
+`torch_dtype` is deprecated! Use `dtype` instead!
+[2025-10-26 02:10:36 DP0 TP0 PP1] Attention backend not explicitly specified. Use fa3 backend by default.
+[2025-10-26 02:10:36 DP0 TP0 PP1] Chunked prefix cache is turned on.
+[2025-10-26 02:10:36 DP0 TP0 PP1] Init torch distributed begin.
+[2025-10-26 02:10:37 DP0 TP0 PP0] Attention backend not explicitly specified. Use fa3 backend by default.
+[2025-10-26 02:10:37 DP0 TP0 PP0] Chunked prefix cache is turned on.
+[2025-10-26 02:10:37 DP0 TP0 PP0] Init torch distributed begin.
+[W1026 02:10:37.951568702 Utils.hpp:137] Warning: Environment variable NCCL_ASYNC_ERROR_HANDLING is deprecated; use TORCH_NCCL_ASYNC_ERROR_HANDLING instead (function operator())
+[W1026 02:10:37.951570881 Utils.hpp:137] Warning: Environment variable NCCL_ASYNC_ERROR_HANDLING is deprecated; use TORCH_NCCL_ASYNC_ERROR_HANDLING instead (function operator())
+[W1026 02:10:37.964217980 Utils.hpp:137] Warning: Environment variable NCCL_ASYNC_ERROR_HANDLING is deprecated; use TORCH_NCCL_ASYNC_ERROR_HANDLING instead (function operator())
+[W1026 02:10:38.230731657 Utils.hpp:137] Warning: Environment variable NCCL_ASYNC_ERROR_HANDLING is deprecated; use TORCH_NCCL_ASYNC_ERROR_HANDLING instead (function operator())
+[W1026 02:10:38.390651344 Utils.hpp:137] Warning: Environment variable NCCL_ASYNC_ERROR_HANDLING is deprecated; use TORCH_NCCL_ASYNC_ERROR_HANDLING instead (function operator())
+[W1026 02:10:38.622623624 Utils.hpp:137] Warning: Environment variable NCCL_ASYNC_ERROR_HANDLING is deprecated; use TORCH_NCCL_ASYNC_ERROR_HANDLING instead (function operator())
+[W1026 02:10:38.884919980 Utils.hpp:137] Warning: Environment variable NCCL_ASYNC_ERROR_HANDLING is deprecated; use TORCH_NCCL_ASYNC_ERROR_HANDLING instead (function operator())
+[W1026 14:10:39.118928747 Utils.hpp:137] Warning: Environment variable NCCL_ASYNC_ERROR_HANDLING is deprecated; use TORCH_NCCL_ASYNC_ERROR_HANDLING instead (function operator())
+[W1026 14:10:40.219791362 Utils.hpp:137] Warning: Environment variable NCCL_ASYNC_ERROR_HANDLING is deprecated; use TORCH_NCCL_ASYNC_ERROR_HANDLING instead (function operator())
+[W1026 14:10:40.241214547 Utils.hpp:137] Warning: Environment variable NCCL_ASYNC_ERROR_HANDLING is deprecated; use TORCH_NCCL_ASYNC_ERROR_HANDLING instead (function operator())
+[W1026 14:10:40.449155333 Utils.hpp:137] Warning: Environment variable NCCL_ASYNC_ERROR_HANDLING is deprecated; use TORCH_NCCL_ASYNC_ERROR_HANDLING instead (function operator())
+[W1026 14:10:40.629962115 Utils.hpp:137] Warning: Environment variable NCCL_ASYNC_ERROR_HANDLING is deprecated; use TORCH_NCCL_ASYNC_ERROR_HANDLING instead (function operator())
+[W1026 14:10:40.144173810 Utils.hpp:137] Warning: Environment variable NCCL_ASYNC_ERROR_HANDLING is deprecated; use TORCH_NCCL_ASYNC_ERROR_HANDLING instead (function operator())
+[W1026 14:10:41.271722959 Utils.hpp:137] Warning: Environment variable NCCL_ASYNC_ERROR_HANDLING is deprecated; use TORCH_NCCL_ASYNC_ERROR_HANDLING instead (function operator())
+[W1026 14:10:42.952064507 Utils.hpp:137] Warning: Environment variable NCCL_ASYNC_ERROR_HANDLING is deprecated; use TORCH_NCCL_ASYNC_ERROR_HANDLING instead (function operator())
+[W1026 02:10:42.849670247 Utils.hpp:137] Warning: Environment variable NCCL_ASYNC_ERROR_HANDLING is deprecated; use TORCH_NCCL_ASYNC_ERROR_HANDLING instead (function operator())
+[2025-10-26 02:10:42 DP0 TP0 PP0] sglang is using nccl==2.27.3
+[2025-10-26 02:10:42 DP0 TP0 PP1] sglang is using nccl==2.27.3
+[2025-10-26 14:10:42 DP0 TP0 PP2] sglang is using nccl==2.27.3
+[2025-10-26 14:10:42 DP0 TP0 PP3] sglang is using nccl==2.27.3
+[2025-10-26 02:10:44 DP0 TP0 PP0] sglang is using nccl==2.27.3
+[2025-10-26 02:10:44 DP1 TP2 PP0] sglang is using nccl==2.27.3
+[2025-10-26 02:10:44 DP0 TP1 PP0] sglang is using nccl==2.27.3
+[2025-10-26 02:10:44 DP1 TP3 PP0] sglang is using nccl==2.27.3
+[2025-10-26 02:10:44 DP0 TP0 PP0] Init torch distributed ends. mem usage=1.46 GB
+[2025-10-26 14:10:44 DP0 TP0 PP3] Init torch distributed ends. mem usage=1.30 GB
+[2025-10-26 02:10:44 DP0 TP0 PP1] Init torch distributed ends. mem usage=1.30 GB
+[2025-10-26 14:10:44 DP0 TP0 PP2] Init torch distributed ends. mem usage=1.46 GB
+[2025-10-26 14:10:46 DP0 TP0 PP2] Load weight begin. avail mem=137.79 GB
+[2025-10-26 14:10:46 DP0 TP0 PP2] Detected fp8 checkpoint.
+[2025-10-26 14:10:46 DP0 TP0 PP3] Load weight begin. avail mem=137.95 GB
+[2025-10-26 14:10:46 DP0 TP0 PP3] Detected fp8 checkpoint.
+[2025-10-26 02:10:46 DP0 TP0 PP1] Load weight begin. avail mem=137.95 GB
+[2025-10-26 02:10:46 DP0 TP0 PP1] Detected fp8 checkpoint.
+[2025-10-26 02:10:46 DP0 TP0 PP0] Load weight begin. avail mem=137.79 GB
+[2025-10-26 02:10:46 DP0 TP0 PP0] Detected fp8 checkpoint.
+[2025-10-26 14:10:46 DP0 TP0 PP2] Load weight end. type=DeepseekV3ForCausalLM, dtype=torch.bfloat16, avail mem=94.27 GB, mem usage=43.52 GB.
+[2025-10-26 14:10:46 DP0 TP0 PP2] Using KV cache dtype: torch.bfloat16
+[2025-10-26 14:10:46 DP0 TP0 PP3] Load weight end. type=DeepseekV3ForCausalLM, dtype=torch.bfloat16, avail mem=91.69 GB, mem usage=46.26 GB.
+[2025-10-26 14:10:46 DP0 TP0 PP3] Using KV cache dtype: torch.bfloat16
+[2025-10-26 02:10:46 DP0 TP0 PP0] Load weight end. type=DeepseekV3ForCausalLM, dtype=torch.bfloat16, avail mem=101.82 GB, mem usage=35.97 GB.
+[2025-10-26 02:10:46 DP0 TP0 PP0] Using KV cache dtype: torch.bfloat16
+[2025-10-26 02:10:46 DP0 TP0 PP1] Load weight end. type=DeepseekV3ForCausalLM, dtype=torch.bfloat16, avail mem=94.43 GB, mem usage=43.52 GB.
+[2025-10-26 02:10:47 DP0 TP0 PP1] Using KV cache dtype: torch.bfloat16
+[2025-10-26 02:10:47 DP1 TP2 PP1] KV Cache is allocated. #tokens: 4200148, KV size: 67.59 GB
+[2025-10-26 02:10:47 DP1 TP3 PP1] KV Cache is allocated. #tokens: 4200148, KV size: 67.59 GB
+[2025-10-26 14:10:47 DP1 TP3 PP2] KV Cache is allocated. #tokens: 4200148, KV size: 67.59 GB
+[2025-10-26 14:10:47 DP1 TP2 PP2] KV Cache is allocated. #tokens: 4200148, KV size: 67.59 GB
+[2025-10-26 02:10:47 DP1 TP3 PP0] KV Cache is allocated. #tokens: 4200148, KV size: 67.59 GB
+[2025-10-26 14:10:47 DP0 TP1 PP3] KV Cache is allocated. #tokens: 4200148, KV size: 72.10 GB
+[2025-10-26 14:10:47 DP0 TP1 PP2] KV Cache is allocated. #tokens: 4200148, KV size: 67.59 GB
+[2025-10-26 14:10:47 DP0 TP0 PP2] KV Cache is allocated. #tokens: 4200148, KV size: 67.59 GB
+[2025-10-26 14:10:47 DP0 TP0 PP2] Memory pool end. avail mem=24.15 GB
+[2025-10-26 14:10:47 DP0 TP0 PP3] KV Cache is allocated. #tokens: 4200148, KV size: 72.10 GB
+[2025-10-26 02:10:47 DP0 TP0 PP1] KV Cache is allocated. #tokens: 4200148, KV size: 67.59 GB
+[2025-10-26 14:10:47 DP0 TP0 PP3] Memory pool end. avail mem=17.06 GB
+[2025-10-26 02:10:47 DP0 TP0 PP0] KV Cache is allocated. #tokens: 4200148, KV size: 67.59 GB
+[2025-10-26 02:10:47 DP1 TP2 PP0] KV Cache is allocated. #tokens: 4200148, KV size: 67.59 GB
+[2025-10-26 14:10:47 DP1 TP3 PP3] KV Cache is allocated. #tokens: 4200148, KV size: 72.10 GB
+[2025-10-26 02:10:47 DP0 TP1 PP0] KV Cache is allocated. #tokens: 4200148, KV size: 67.59 GB
+[2025-10-26 02:10:47 DP0 TP0 PP1] Memory pool end. avail mem=24.32 GB
+[2025-10-26 02:10:47 DP0 TP0 PP0] Memory pool end. avail mem=31.70 GB
+[2025-10-26 14:10:47 DP1 TP2 PP3] KV Cache is allocated. #tokens: 4200148, KV size: 72.10 GB
+[2025-10-26 02:10:47 DP0 TP1 PP1] KV Cache is allocated. #tokens: 4200148, KV size: 67.59 GB
+[2025-10-26 14:10:47 DP0 TP0 PP2] Capture cuda graph begin. This can take up to several minutes. avail mem=24.09 GB
+[2025-10-26 14:10:47 DP0 TP0 PP3] Capture cuda graph begin. This can take up to several minutes. avail mem=17.00 GB
+[2025-10-26 02:10:47 DP0 TP0 PP0] Capture cuda graph begin. This can take up to several minutes. avail mem=31.64 GB
+[2025-10-26 14:10:47 DP0 TP0 PP2] Capture cuda graph bs [2, 4, 8, 12, 16, 24, 32, 40, 48, 56, 64, 72, 80, 88, 96, 104, 112, 120, 128, 136, 144, 152, 160, 168, 176, 184, 192, 200, 208, 216, 224, 232, 240, 248, 256, 272, 288, 304, 320, 336, 352, 368, 384, 400, 416, 432, 448, 464, 480, 496, 512]
+[2025-10-26 02:10:47 DP0 TP0 PP1] Capture cuda graph begin. This can take up to several minutes. avail mem=24.25 GB
+[2025-10-26 14:10:47 DP0 TP0 PP3] Capture cuda graph bs [2, 4, 8, 12, 16, 24, 32, 40, 48, 56, 64, 72, 80, 88, 96, 104, 112, 120, 128, 136, 144, 152, 160, 168, 176, 184, 192, 200, 208, 216, 224, 232, 240, 248, 256, 272, 288, 304, 320, 336, 352, 368, 384, 400, 416, 432, 448, 464, 480, 496, 512]
+[2025-10-26 02:10:47 DP0 TP0 PP0] Capture cuda graph bs [2, 4, 8, 12, 16, 24, 32, 40, 48, 56, 64, 72, 80, 88, 96, 104, 112, 120, 128, 136, 144, 152, 160, 168, 176, 184, 192, 200, 208, 216, 224, 232, 240, 248, 256, 272, 288, 304, 320, 336, 352, 368, 384, 400, 416, 432, 448, 464, 480, 496, 512]
+[2025-10-26 02:10:47 DP0 TP0 PP1] Capture cuda graph bs [2, 4, 8, 12, 16, 24, 32, 40, 48, 56, 64, 72, 80, 88, 96, 104, 112, 120, 128, 136, 144, 152, 160, 168, 176, 184, 192, 200, 208, 216, 224, 232, 240, 248, 256, 272, 288, 304, 320, 336, 352, 368, 384, 400, 416, 432, 448, 464, 480, 496, 512]
+  0%|          | 0/51 [00:00<?, ?it/s]Capturing batches (bs=512 avail_mem=17.00 GB):   0%|          | 0/51 [00:00<?, ?it/s]  0%|          | 0/51 [00:00<?, ?it/s]Capturing batches (bs=512 avail_mem=24.25 GB):   0%|          | 0/51 [00:00<?, ?it/s]  0%|          | 0/51 [00:00<?, ?it/s]Capturing batches (bs=512 avail_mem=30.77 GB):   0%|          | 0/51 [00:00<?, ?it/s]  0%|          | 0/51 [00:00<?, ?it/s]Capturing batches (bs=512 avail_mem=24.09 GB):   0%|          | 0/51 [00:00<?, ?it/s][2025-10-26 02:10:47 DP0 TP0 PP0] Entering DeepGEMM JIT Pre-Compile session. It may take a long time (typically 10-20 mins) if you have not run `sglang.compile_deep_gemm`. It is recommended to run `sglang.compile_deep_gemm` with same args as `sglang.launch_server` for pre-compilation to reduce the overhead if you have not run it before. For example: `python3 -m sglang.compile_deep_gemm --model deepseek-ai/DeepSeek-V3 --tp 8 --trust-remote-code`
+[2025-10-26 02:10:47 DP0 TP0 PP0] Try DeepGEMM JIT Compiling for <GEMM_NT_F8F8BF16> N=2112, K=7168, num_groups=1 with all Ms. It only takes a little time (typically 1 sec) if you have run `python3 -m sglang.compile_deep_gemm`. 
+
+DeepGEMM warmup:   0%|          | 0/16384 [00:00<?, ?it/s][A
+DeepGEMM warmup:   0%|          | 1/16384 [00:00<2:58:36,  1.53it/s][A
+DeepGEMM warmup:   0%|          | 65/16384 [00:00<02:42, 100.34it/s][A
+DeepGEMM warmup:   1%|          | 129/16384 [00:01<01:34, 172.86it/s][A
+DeepGEMM warmup:   1%|          | 193/16384 [00:01<01:11, 226.00it/s][A
+DeepGEMM warmup:   2%|▏         | 257/16384 [00:01<01:00, 264.56it/s][A
+DeepGEMM warmup:   2%|▏         | 321/16384 [00:01<00:54, 297.25it/s][A
+DeepGEMM warmup:   2%|▏         | 385/16384 [00:01<00:49, 323.92it/s][A
+DeepGEMM warmup:   3%|▎         | 512/16384 [00:01<00:37, 426.48it/s][A
+DeepGEMM warmup:   3%|▎         | 557/16384 [00:02<00:41, 382.93it/s][A
+DeepGEMM warmup:   4%|▍         | 641/16384 [00:02<00:37, 420.20it/s][A
+DeepGEMM warmup:   4%|▍         | 705/16384 [00:02<00:38, 410.67it/s][A
+DeepGEMM warmup:   5%|▍         | 769/16384 [00:02<00:38, 402.01it/s][A
+DeepGEMM warmup:   6%|▋         | 1025/16384 [00:02<00:21, 713.67it/s][A
+DeepGEMM warmup:   7%|▋         | 1153/16384 [00:02<00:21, 722.71it/s][A
+DeepGEMM warmup:   8%|▊         | 1281/16384 [00:03<00:21, 708.52it/s][A
+DeepGEMM warmup:   9%|▊         | 1409/16384 [00:03<00:20, 728.90it/s][A
+DeepGEMM warmup:   9%|▉         | 1537/16384 [00:03<00:19, 745.24it/s][A
+DeepGEMM warmup:  13%|█▎        | 2049/16384 [00:03<00:10, 1409.26it/s][A
+DeepGEMM warmup:  14%|█▍        | 2305/16384 [00:03<00:09, 1445.97it/s][A
+DeepGEMM warmup:  16%|█▌        | 2561/16384 [00:03<00:09, 1393.78it/s][A
+DeepGEMM warmup:  16%|█▋        | 2701/16384 [00:04<00:11, 1189.22it/s][A
+DeepGEMM warmup:  19%|█▉        | 3073/16384 [00:04<00:09, 1378.40it/s][A
+DeepGEMM warmup:  22%|██▏       | 3585/16384 [00:04<00:07, 1824.83it/s][A
+DeepGEMM warmup:  23%|██▎       | 3841/16384 [00:04<00:07, 1765.18it/s][A
+DeepGEMM warmup:  25%|██▍       | 4019/16384 [00:04<00:07, 1598.08it/s][A
+DeepGEMM warmup:  26%|██▌       | 4178/16384 [00:05<00:08, 1417.20it/s][A
+DeepGEMM warmup:  26%|██▋       | 4319/16384 [00:05<00:09, 1244.15it/s][A
+DeepGEMM warmup:  28%|██▊       | 4609/16384 [00:05<00:08, 1398.69it/s][A
+DeepGEMM warmup:  30%|██▉       | 4865/16384 [00:05<00:07, 1462.20it/s][A
+DeepGEMM warmup:  33%|███▎      | 5377/16384 [00:05<00:05, 1941.07it/s][A
+DeepGEMM warmup:  34%|███▍      | 5633/16384 [00:05<00:06, 1783.69it/s][A
+DeepGEMM warmup:  38%|███▊      | 6145/16384 [00:06<00:04, 2142.63it/s][A
+DeepGEMM warmup:  41%|████      | 6657/16384 [00:06<00:04, 2384.91it/s][A
+DeepGEMM warmup:  44%|████▍     | 7169/16384 [00:06<00:03, 2521.07it/s][A
+DeepGEMM warmup:  50%|█████     | 8193/16384 [00:06<00:02, 3428.22it/s][A
+DeepGEMM warmup:  58%|█████▊    | 9473/16384 [00:06<00:01, 4398.46it/s][A
+DeepGEMM warmup:  66%|██████▌   | 10753/16384 [00:06<00:01, 5044.74it/s][A
+DeepGEMM warmup:  73%|███████▎  | 12033/16384 [00:07<00:00, 5493.41it/s][A
+DeepGEMM warmup:  94%|█████████▍| 15427/16384 [00:07<00:00, 10695.46it/s][ADeepGEMM warmup: 100%|██████████| 16384/16384 [00:07<00:00, 2239.67it/s] 
+[2025-10-26 02:10:54 DP0 TP0 PP0] Entering DeepGEMM JIT Pre-Compile session. It may take a long time (typically 10-20 mins) if you have not run `sglang.compile_deep_gemm`. It is recommended to run `sglang.compile_deep_gemm` with same args as `sglang.launch_server` for pre-compilation to reduce the overhead if you have not run it before. For example: `python3 -m sglang.compile_deep_gemm --model deepseek-ai/DeepSeek-V3 --tp 8 --trust-remote-code`
+[2025-10-26 02:10:54 DP0 TP0 PP0] Try DeepGEMM JIT Compiling for <GEMM_NT_F8F8BF16> N=12288, K=1536, num_groups=1 with all Ms. It only takes a little time (typically 1 sec) if you have run `python3 -m sglang.compile_deep_gemm`. 
+
+DeepGEMM warmup:   0%|          | 0/16384 [00:00<?, ?it/s][A
+DeepGEMM warmup:   0%|          | 1/16384 [00:00<1:34:26,  2.89it/s][A
+DeepGEMM warmup:   0%|          | 65/16384 [00:00<01:41, 161.09it/s][A
+DeepGEMM warmup:   1%|          | 129/16384 [00:00<01:05, 247.08it/s][A
+DeepGEMM warmup:   2%|▏         | 257/16384 [00:00<00:36, 436.12it/s][A
+DeepGEMM warmup:   3%|▎         | 512/16384 [00:00<00:19, 808.03it/s][A
+DeepGEMM warmup:   4%|▎         | 601/16384 [00:01<00:23, 682.34it/s][A
+DeepGEMM warmup:   5%|▍         | 769/16384 [00:01<00:20, 753.13it/s][A
+DeepGEMM warmup:   6%|▋         | 1025/16384 [00:01<00:15, 997.56it/s][A
+DeepGEMM warmup:   8%|▊         | 1281/16384 [00:01<00:12, 1176.48it/s][A
+DeepGEMM warmup:   9%|▉         | 1537/16384 [00:01<00:11, 1291.33it/s][A
+DeepGEMM warmup:  13%|█▎        | 2049/16384 [00:02<00:07, 1804.05it/s][A
+DeepGEMM warmup:  16%|█▌        | 2561/16384 [00:02<00:06, 2179.07it/s][A
+DeepGEMM warmup:  19%|█▉        | 3073/16384 [00:02<00:05, 2432.14it/s][A
+DeepGEMM warmup:  34%|███▍      | 5633/16384 [00:02<00:01, 5626.17it/s][A
+DeepGEMM warmup:  55%|█████▌    | 9034/16384 [00:02<00:00, 10908.86it/s][A
+DeepGEMM warmup:  76%|███████▌  | 12440/16384 [00:02<00:00, 15770.84it/s][A
+DeepGEMM warmup:  97%|█████████▋| 15872/16384 [00:02<00:00, 20051.80it/s][ADeepGEMM warmup: 100%|██████████| 16384/16384 [00:02<00:00, 5622.24it/s] 
+[2025-10-26 02:10:58 DP0 TP0 PP0] Entering DeepGEMM JIT Pre-Compile session. It may take a long time (typically 10-20 mins) if you have not run `sglang.compile_deep_gemm`. It is recommended to run `sglang.compile_deep_gemm` with same args as `sglang.launch_server` for pre-compilation to reduce the overhead if you have not run it before. For example: `python3 -m sglang.compile_deep_gemm --model deepseek-ai/DeepSeek-V3 --tp 8 --trust-remote-code`
+[2025-10-26 02:10:58 DP0 TP0 PP0] Try DeepGEMM JIT Compiling for <GEMM_NT_F8F8BF16> N=7168, K=8192, num_groups=1 with all Ms. It only takes a little time (typically 1 sec) if you have run `python3 -m sglang.compile_deep_gemm`. 
+
+DeepGEMM warmup:   0%|          | 0/16384 [00:00<?, ?it/s][A
+DeepGEMM warmup:   0%|          | 1/16384 [00:00<1:30:32,  3.02it/s][A
+DeepGEMM warmup:   0%|          | 65/16384 [00:00<01:44, 155.97it/s][A
+DeepGEMM warmup:   1%|          | 129/16384 [00:00<01:07, 240.34it/s][A
+DeepGEMM warmup:   2%|▏         | 257/16384 [00:00<00:39, 403.32it/s][A
+DeepGEMM warmup:   3%|▎         | 512/16384 [00:01<00:21, 748.18it/s][A
+DeepGEMM warmup:   4%|▎         | 593/16384 [00:01<00:23, 674.47it/s][A
+DeepGEMM warmup:   4%|▍         | 664/16384 [00:01<00:25, 611.59it/s][A
+DeepGEMM warmup:   6%|▋         | 1025/16384 [00:01<00:13, 1107.49it/s][A
+DeepGEMM warmup:   7%|▋         | 1153/16384 [00:01<00:14, 1023.52it/s][A
+DeepGEMM warmup:   9%|▉         | 1537/16384 [00:01<00:10, 1431.15it/s][A
+DeepGEMM warmup:  13%|█▎        | 2049/16384 [00:02<00:07, 1935.28it/s][A
+DeepGEMM warmup:  16%|█▌        | 2561/16384 [00:02<00:06, 2263.67it/s][A
+DeepGEMM warmup:  19%|█▉        | 3073/16384 [00:02<00:05, 2449.27it/s][A
+DeepGEMM warmup:  22%|██▏       | 3585/16384 [00:02<00:04, 2631.64it/s][A
+DeepGEMM warmup:  23%|██▎       | 3848/16384 [00:02<00:05, 2226.80it/s][A
+DeepGEMM warmup:  34%|███▍      | 5633/16384 [00:02<00:02, 4267.75it/s][A
+DeepGEMM warmup:  54%|█████▍    | 8913/16384 [00:03<00:00, 9532.87it/s][A
+DeepGEMM warmup:  75%|███████▌  | 12314/16384 [00:03<00:00, 14638.81it/s][A
+DeepGEMM warmup:  95%|█████████▍| 15537/16384 [00:03<00:00, 18677.39it/s][ADeepGEMM warmup: 100%|██████████| 16384/16384 [00:03<00:00, 5021.69it/s] 
+[2025-10-26 02:11:02 DP0 TP0 PP0] Entering DeepGEMM JIT Pre-Compile session. It may take a long time (typically 10-20 mins) if you have not run `sglang.compile_deep_gemm`. It is recommended to run `sglang.compile_deep_gemm` with same args as `sglang.launch_server` for pre-compilation to reduce the overhead if you have not run it before. For example: `python3 -m sglang.compile_deep_gemm --model deepseek-ai/DeepSeek-V3 --tp 8 --trust-remote-code`
+[2025-10-26 02:11:02 DP0 TP0 PP0] Try DeepGEMM JIT Compiling for <GEMM_NT_F8F8BF16> N=9216, K=7168, num_groups=1 with all Ms. It only takes a little time (typically 1 sec) if you have run `python3 -m sglang.compile_deep_gemm`. 
+
+DeepGEMM warmup:   0%|          | 0/16384 [00:00<?, ?it/s][A
+DeepGEMM warmup:   0%|          | 1/16384 [00:00<52:05,  5.24it/s][A
+DeepGEMM warmup:   0%|          | 65/16384 [00:00<01:22, 198.35it/s][A
+DeepGEMM warmup:   1%|          | 129/16384 [00:00<00:56, 286.29it/s][A
+DeepGEMM warmup:   2%|▏         | 257/16384 [00:00<00:33, 479.72it/s][A
+DeepGEMM warmup:   3%|▎         | 512/16384 [00:00<00:18, 861.19it/s][A
+DeepGEMM warmup:   4%|▎         | 600/16384 [00:01<00:20, 754.67it/s][A
+DeepGEMM warmup:   5%|▍         | 769/16384 [00:01<00:19, 813.26it/s][A
+DeepGEMM warmup:   5%|▌         | 897/16384 [00:01<00:19, 810.59it/s][A
+DeepGEMM warmup:   6%|▋         | 1025/16384 [00:01<00:19, 799.62it/s][A
+DeepGEMM warmup:   8%|▊         | 1281/16384 [00:01<00:14, 1042.42it/s][A
+DeepGEMM warmup:   9%|▉         | 1537/16384 [00:01<00:12, 1198.95it/s][A
+DeepGEMM warmup:  11%|█         | 1793/16384 [00:02<00:11, 1302.98it/s][A
+DeepGEMM warmup:  13%|█▎        | 2049/16384 [00:02<00:10, 1328.61it/s][A
+DeepGEMM warmup:  16%|█▌        | 2561/16384 [00:02<00:07, 1768.28it/s][A
+DeepGEMM warmup:  17%|█▋        | 2817/16384 [00:02<00:08, 1692.50it/s][A
+DeepGEMM warmup:  19%|█▉        | 3073/16384 [00:02<00:07, 1674.82it/s][A
+DeepGEMM warmup:  23%|██▎       | 3841/16384 [00:02<00:05, 2485.87it/s][A
+DeepGEMM warmup:  44%|████▍     | 7215/16384 [00:03<00:01, 8708.09it/s][A
+DeepGEMM warmup:  65%|██████▍   | 10600/16384 [00:03<00:00, 14274.83it/s][A
+DeepGEMM warmup:  85%|████████▌ | 14006/16384 [00:03<00:00, 19028.96it/s][ADeepGEMM warmup: 100%|██████████| 16384/16384 [00:03<00:00, 5006.03it/s] 
+[2025-10-26 02:11:05 DP0 TP0 PP0] Entering DeepGEMM JIT Pre-Compile session. It may take a long time (typically 10-20 mins) if you have not run `sglang.compile_deep_gemm`. It is recommended to run `sglang.compile_deep_gemm` with same args as `sglang.launch_server` for pre-compilation to reduce the overhead if you have not run it before. For example: `python3 -m sglang.compile_deep_gemm --model deepseek-ai/DeepSeek-V3 --tp 8 --trust-remote-code`
+[2025-10-26 02:11:05 DP0 TP0 PP0] Try DeepGEMM JIT Compiling for <GEMM_NT_F8F8BF16> N=7168, K=4608, num_groups=1 with all Ms. It only takes a little time (typically 1 sec) if you have run `python3 -m sglang.compile_deep_gemm`. 
+
+DeepGEMM warmup:   0%|          | 0/16384 [00:00<?, ?it/s][A
+DeepGEMM warmup:   0%|          | 1/16384 [00:00<1:23:26,  3.27it/s][A
+DeepGEMM warmup:   0%|          | 65/16384 [00:00<01:35, 169.99it/s][A
+DeepGEMM warmup:   1%|          | 129/16384 [00:00<01:03, 254.23it/s][A
+DeepGEMM warmup:   2%|▏         | 257/16384 [00:00<00:36, 445.37it/s][A
+DeepGEMM warmup:   3%|▎         | 512/16384 [00:00<00:19, 828.33it/s][A
+DeepGEMM warmup:   4%|▎         | 602/16384 [00:01<00:20, 754.51it/s][A
+DeepGEMM warmup:   4%|▍         | 682/16384 [00:01<00:23, 674.43it/s][A
+DeepGEMM warmup:   6%|▋         | 1025/16384 [00:01<00:13, 1132.44it/s][A
+DeepGEMM warmup:   7%|▋         | 1153/16384 [00:01<00:14, 1032.48it/s][A
+DeepGEMM warmup:   9%|▉         | 1537/16384 [00:01<00:10, 1380.85it/s][A
+DeepGEMM warmup:  13%|█▎        | 2049/16384 [00:01<00:07, 1853.03it/s][A
+DeepGEMM warmup:  16%|█▌        | 2561/16384 [00:02<00:06, 2081.22it/s][A
+DeepGEMM warmup:  19%|█▉        | 3073/16384 [00:02<00:06, 2194.63it/s][A
+DeepGEMM warmup:  22%|██▏       | 3585/16384 [00:02<00:05, 2389.93it/s][A
+DeepGEMM warmup:  23%|██▎       | 3841/16384 [00:02<00:05, 2111.98it/s][A
+DeepGEMM warmup:  34%|███▍      | 5633/16384 [00:02<00:02, 4146.05it/s][A
+DeepGEMM warmup:  55%|█████▍    | 8952/16384 [00:03<00:00, 9377.31it/s][A
+DeepGEMM warmup:  75%|███████▍  | 12254/16384 [00:03<00:00, 14215.61it/s][A
+DeepGEMM warmup:  94%|█████████▍| 15386/16384 [00:03<00:00, 18083.98it/s][ADeepGEMM warmup: 100%|██████████| 16384/16384 [00:03<00:00, 5005.21it/s] 
+[2025-10-26 14:11:58 DP0 TP0 PP2] Entering DeepGEMM JIT Pre-Compile session. It may take a long time (typically 10-20 mins) if you have not run `sglang.compile_deep_gemm`. It is recommended to run `sglang.compile_deep_gemm` with same args as `sglang.launch_server` for pre-compilation to reduce the overhead if you have not run it before. For example: `python3 -m sglang.compile_deep_gemm --model deepseek-ai/DeepSeek-V3 --tp 8 --trust-remote-code`
+[2025-10-26 14:11:58 DP0 TP0 PP2] Try DeepGEMM JIT Compiling for <GEMM_NT_F8F8BF16> N=2112, K=7168, num_groups=1 with all Ms. It only takes a little time (typically 1 sec) if you have run `python3 -m sglang.compile_deep_gemm`. 
+
+DeepGEMM warmup:   0%|          | 0/16384 [00:00<?, ?it/s][A
+DeepGEMM warmup:   0%|          | 1/16384 [00:00<1:42:26,  2.67it/s][A
+DeepGEMM warmup:   0%|          | 65/16384 [00:00<01:36, 168.97it/s][A
+DeepGEMM warmup:   1%|          | 129/16384 [00:00<00:57, 281.35it/s][A
+DeepGEMM warmup:   1%|          | 193/16384 [00:00<00:44, 362.17it/s][A
+DeepGEMM warmup:   2%|▏         | 257/16384 [00:00<00:38, 418.54it/s][A
+DeepGEMM warmup:   2%|▏         | 321/16384 [00:00<00:35, 457.15it/s][A
+DeepGEMM warmup:   2%|▏         | 385/16384 [00:01<00:33, 483.63it/s][A
+DeepGEMM warmup:   3%|▎         | 512/16384 [00:01<00:24, 660.74it/s][A
+DeepGEMM warmup:   4%|▎         | 582/16384 [00:01<00:24, 642.05it/s][A
+DeepGEMM warmup:   4%|▍         | 649/16384 [00:01<00:25, 619.04it/s][A
+DeepGEMM warmup:   4%|▍         | 713/16384 [00:01<00:26, 597.87it/s][A
+DeepGEMM warmup:   5%|▍         | 774/16384 [00:01<00:27, 574.89it/s][A
+DeepGEMM warmup:   6%|▋         | 1025/16384 [00:01<00:14, 1029.55it/s][A
+DeepGEMM warmup:   7%|▋         | 1153/16384 [00:01<00:14, 1041.87it/s][A
+DeepGEMM warmup:   8%|▊         | 1281/16384 [00:02<00:14, 1050.82it/s][A
+DeepGEMM warmup:   9%|▊         | 1409/16384 [00:02<00:14, 1060.51it/s][A
+DeepGEMM warmup:   9%|▉         | 1537/16384 [00:02<00:13, 1066.07it/s][A
+DeepGEMM warmup:  13%|█▎        | 2049/16384 [00:02<00:07, 1970.08it/s][A
+DeepGEMM warmup:  14%|█▍        | 2305/16384 [00:02<00:07, 2004.05it/s][A
+DeepGEMM warmup:  16%|█▌        | 2561/16384 [00:02<00:06, 2022.17it/s][A
+DeepGEMM warmup:  17%|█▋        | 2761/16384 [00:02<00:07, 1907.90it/s][A
+DeepGEMM warmup:  19%|█▉        | 3073/16384 [00:02<00:06, 2079.46it/s][A
+DeepGEMM warmup:  22%|██▏       | 3585/16384 [00:03<00:05, 2455.35it/s][A
+DeepGEMM warmup:  23%|██▎       | 3841/16384 [00:03<00:05, 2344.23it/s][A
+DeepGEMM warmup:  25%|██▍       | 4070/16384 [00:03<00:05, 2219.72it/s][A
+DeepGEMM warmup:  26%|██▌       | 4287/16384 [00:03<00:07, 1644.76it/s][A
+DeepGEMM warmup:  28%|██▊       | 4609/16384 [00:03<00:06, 1882.84it/s][A
+DeepGEMM warmup:  30%|██▉       | 4865/16384 [00:03<00:05, 1935.89it/s][A
+DeepGEMM warmup:  33%|███▎      | 5377/16384 [00:03<00:04, 2496.39it/s][A
+DeepGEMM warmup:  34%|███▍      | 5639/16384 [00:04<00:04, 2393.89it/s][A
+DeepGEMM warmup:  38%|███▊      | 6145/16384 [00:04<00:03, 2834.76it/s][A
+DeepGEMM warmup:  41%|████      | 6657/16384 [00:04<00:03, 3159.15it/s][A
+DeepGEMM warmup:  44%|████▍     | 7169/16384 [00:04<00:02, 3369.88it/s][A
+DeepGEMM warmup:  50%|█████     | 8193/16384 [00:04<00:01, 4545.20it/s][A
+DeepGEMM warmup:  58%|█████▊    | 9473/16384 [00:04<00:01, 5784.32it/s][A
+DeepGEMM warmup:  66%|██████▌   | 10753/16384 [00:04<00:00, 6592.54it/s][A
+DeepGEMM warmup:  73%|███████▎  | 12033/16384 [00:05<00:00, 7132.83it/s][A
+DeepGEMM warmup:  94%|█████████▎| 15343/16384 [00:05<00:00, 12973.40it/s][ADeepGEMM warmup: 100%|██████████| 16384/16384 [00:05<00:00, 3166.35it/s] 
+[2025-10-26 14:12:03 DP0 TP0 PP2] Entering DeepGEMM JIT Pre-Compile session. It may take a long time (typically 10-20 mins) if you have not run `sglang.compile_deep_gemm`. It is recommended to run `sglang.compile_deep_gemm` with same args as `sglang.launch_server` for pre-compilation to reduce the overhead if you have not run it before. For example: `python3 -m sglang.compile_deep_gemm --model deepseek-ai/DeepSeek-V3 --tp 8 --trust-remote-code`
+[2025-10-26 14:12:03 DP0 TP0 PP2] Try DeepGEMM JIT Compiling for <GEMM_NT_F8F8BF16> N=12288, K=1536, num_groups=1 with all Ms. It only takes a little time (typically 1 sec) if you have run `python3 -m sglang.compile_deep_gemm`. 
+
+DeepGEMM warmup:   0%|          | 0/16384 [00:00<?, ?it/s][A
+DeepGEMM warmup:   0%|          | 1/16384 [00:00<1:07:44,  4.03it/s][A
+DeepGEMM warmup:   0%|          | 65/16384 [00:00<01:15, 216.36it/s][A
+DeepGEMM warmup:   1%|          | 129/16384 [00:00<00:48, 336.67it/s][A
+DeepGEMM warmup:   2%|▏         | 257/16384 [00:00<00:27, 593.41it/s][A
+DeepGEMM warmup:   3%|▎         | 512/16384 [00:00<00:14, 1096.04it/s][A
+DeepGEMM warmup:   4%|▍         | 632/16384 [00:00<00:14, 1072.68it/s][A
+DeepGEMM warmup:   5%|▍         | 769/16384 [00:00<00:14, 1104.52it/s][A
+DeepGEMM warmup:   6%|▋         | 1025/16384 [00:01<00:10, 1419.72it/s][A
+DeepGEMM warmup:   8%|▊         | 1281/16384 [00:01<00:09, 1632.16it/s][A
+DeepGEMM warmup:   9%|▉         | 1537/16384 [00:01<00:08, 1777.80it/s][A
+DeepGEMM warmup:  13%|█▎        | 2049/16384 [00:01<00:05, 2488.12it/s][A
+DeepGEMM warmup:  16%|█▌        | 2561/16384 [00:01<00:04, 2957.32it/s][A
+DeepGEMM warmup:  19%|█▉        | 3073/16384 [00:01<00:04, 3274.20it/s][A
+DeepGEMM warmup:  34%|███▍      | 5633/16384 [00:01<00:01, 7309.41it/s][A
+DeepGEMM warmup:  55%|█████▌    | 9043/16384 [00:02<00:00, 13446.42it/s][A
+DeepGEMM warmup:  76%|███████▌  | 12432/16384 [00:02<00:00, 18486.94it/s][A
+DeepGEMM warmup:  97%|█████████▋| 15831/16384 [00:02<00:00, 22524.98it/s][ADeepGEMM warmup: 100%|██████████| 16384/16384 [00:02<00:00, 7391.43it/s] 
+[2025-10-26 14:12:06 DP0 TP0 PP2] Entering DeepGEMM JIT Pre-Compile session. It may take a long time (typically 10-20 mins) if you have not run `sglang.compile_deep_gemm`. It is recommended to run `sglang.compile_deep_gemm` with same args as `sglang.launch_server` for pre-compilation to reduce the overhead if you have not run it before. For example: `python3 -m sglang.compile_deep_gemm --model deepseek-ai/DeepSeek-V3 --tp 8 --trust-remote-code`
+[2025-10-26 14:12:06 DP0 TP0 PP2] Try DeepGEMM JIT Compiling for <GEMM_NT_F8F8BF16> N=7168, K=8192, num_groups=1 with all Ms. It only takes a little time (typically 1 sec) if you have run `python3 -m sglang.compile_deep_gemm`. 
+
+DeepGEMM warmup:   0%|          | 0/16384 [00:00<?, ?it/s][A
+DeepGEMM warmup:   0%|          | 1/16384 [00:00<1:03:20,  4.31it/s][A
+DeepGEMM warmup:   0%|          | 65/16384 [00:00<01:10, 231.99it/s][A
+DeepGEMM warmup:   1%|          | 129/16384 [00:00<00:46, 351.13it/s][A
+DeepGEMM warmup:   2%|▏         | 257/16384 [00:00<00:26, 608.56it/s][A
+DeepGEMM warmup:   3%|▎         | 512/16384 [00:00<00:14, 1113.64it/s][A
+DeepGEMM warmup:   4%|▍         | 632/16384 [00:00<00:14, 1072.11it/s][A
+DeepGEMM warmup:   5%|▍         | 745/16384 [00:00<00:15, 1019.98it/s][A
+DeepGEMM warmup:   6%|▋         | 1025/16384 [00:01<00:10, 1403.49it/s][A
+DeepGEMM warmup:   7%|▋         | 1168/16384 [00:01<00:11, 1325.30it/s][A
+DeepGEMM warmup:   9%|▉         | 1537/16384 [00:01<00:08, 1823.28it/s][A
+DeepGEMM warmup:  13%|█▎        | 2049/16384 [00:01<00:05, 2490.41it/s][A
+DeepGEMM warmup:  16%|█▌        | 2561/16384 [00:01<00:04, 2938.45it/s][A[2025-10-26 02:12:08 DP0 TP0 PP1] Using default MoE kernel config. Performance might be sub-optimal! Config file not found at /scratch/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/layers/moe/fused_moe_triton/configs/triton_3_3_1/E=257,N=512,device_name=NVIDIA_H200,dtype=fp8_w8a8,block_shape=[128, 128].json, you can create them with https://github.com/sgl-project/sglang/tree/main/benchmark/kernels/fused_moe_triton
+[2025-10-26 02:12:08 DP0 TP1 PP1] Using default MoE kernel config. Performance might be sub-optimal! Config file not found at /scratch/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/layers/moe/fused_moe_triton/configs/triton_3_3_1/E=257,N=512,device_name=NVIDIA_H200,dtype=fp8_w8a8,block_shape=[128, 128].json, you can create them with https://github.com/sgl-project/sglang/tree/main/benchmark/kernels/fused_moe_triton
+[2025-10-26 02:12:08 DP1 TP3 PP1] Using default MoE kernel config. Performance might be sub-optimal! Config file not found at /scratch/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/layers/moe/fused_moe_triton/configs/triton_3_3_1/E=257,N=512,device_name=NVIDIA_H200,dtype=fp8_w8a8,block_shape=[128, 128].json, you can create them with https://github.com/sgl-project/sglang/tree/main/benchmark/kernels/fused_moe_triton
+[2025-10-26 02:12:08 DP1 TP2 PP1] Using default MoE kernel config. Performance might be sub-optimal! Config file not found at /scratch/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/layers/moe/fused_moe_triton/configs/triton_3_3_1/E=257,N=512,device_name=NVIDIA_H200,dtype=fp8_w8a8,block_shape=[128, 128].json, you can create them with https://github.com/sgl-project/sglang/tree/main/benchmark/kernels/fused_moe_triton
+
+DeepGEMM warmup:  19%|█▉        | 3073/16384 [00:01<00:04, 3235.84it/s][A
+DeepGEMM warmup:  22%|██▏       | 3585/16384 [00:01<00:03, 3443.32it/s][A
+DeepGEMM warmup:  24%|██▍       | 3929/16384 [00:01<00:03, 3215.82it/s][A
+DeepGEMM warmup:  34%|███▍      | 5633/16384 [00:02<00:01, 5707.89it/s][A
+DeepGEMM warmup:  54%|█████▍    | 8819/16384 [00:02<00:00, 11830.16it/s][A
+DeepGEMM warmup:  72%|███████▏  | 11807/16384 [00:02<00:00, 16353.04it/s][A
+DeepGEMM warmup:  92%|█████████▏| 15036/16384 [00:02<00:00, 20553.84it/s][ADeepGEMM warmup: 100%|██████████| 16384/16384 [00:02<00:00, 6591.51it/s] 
+Capturing batches (bs=512 avail_mem=24.25 GB):   2%|▏         | 1/51 [01:24<1:10:16, 84.33s/it]Capturing batches (bs=496 avail_mem=15.94 GB):   2%|▏         | 1/51 [01:24<1:10:16, 84.33s/it]Capturing batches (bs=496 avail_mem=15.94 GB):   4%|▍         | 2/51 [01:25<28:43, 35.18s/it]  Capturing batches (bs=480 avail_mem=15.93 GB):   4%|▍         | 2/51 [01:25<28:43, 35.18s/it]Capturing batches (bs=480 avail_mem=15.93 GB):   6%|▌         | 3/51 [01:25<15:19, 19.16s/it]Capturing batches (bs=464 avail_mem=15.92 GB):   6%|▌         | 3/51 [01:25<15:19, 19.16s/it]Capturing batches (bs=464 avail_mem=15.92 GB):   8%|▊         | 4/51 [01:25<09:07, 11.64s/it]Capturing batches (bs=448 avail_mem=15.92 GB):   8%|▊         | 4/51 [01:25<09:07, 11.64s/it]Capturing batches (bs=448 avail_mem=15.92 GB):  10%|▉         | 5/51 [01:25<05:44,  7.48s/it]Capturing batches (bs=432 avail_mem=15.91 GB):  10%|▉         | 5/51 [01:25<05:44,  7.48s/it]Capturing batches (bs=432 avail_mem=15.91 GB):  12%|█▏        | 6/51 [01:25<03:43,  4.97s/it]Capturing batches (bs=416 avail_mem=15.90 GB):  12%|█▏        | 6/51 [01:25<03:43,  4.97s/it]Capturing batches (bs=416 avail_mem=15.90 GB):  14%|█▎        | 7/51 [01:25<02:28,  3.38s/it]Capturing batches (bs=400 avail_mem=15.89 GB):  14%|█▎        | 7/51 [01:25<02:28,  3.38s/it]Capturing batches (bs=400 avail_mem=15.89 GB):  16%|█▌        | 8/51 [01:25<01:40,  2.34s/it]Capturing batches (bs=384 avail_mem=15.88 GB):  16%|█▌        | 8/51 [01:25<01:40,  2.34s/it]Capturing batches (bs=384 avail_mem=15.88 GB):  18%|█▊        | 9/51 [01:26<01:15,  1.80s/it]Capturing batches (bs=368 avail_mem=15.87 GB):  18%|█▊        | 9/51 [01:26<01:15,  1.80s/it]Capturing batches (bs=368 avail_mem=15.87 GB):  20%|█▉        | 10/51 [01:26<00:52,  1.28s/it]Capturing batches (bs=352 avail_mem=15.86 GB):  20%|█▉        | 10/51 [01:26<00:52,  1.28s/it]Capturing batches (bs=336 avail_mem=15.85 GB):  20%|█▉        | 10/51 [01:26<00:52,  1.28s/it]Capturing batches (bs=336 avail_mem=15.85 GB):  24%|██▎       | 12/51 [01:26<00:28,  1.38it/s]Capturing batches (bs=320 avail_mem=15.84 GB):  24%|██▎       | 12/51 [01:26<00:28,  1.38it/s]Capturing batches (bs=320 avail_mem=15.84 GB):  25%|██▌       | 13/51 [01:27<00:24,  1.58it/s]Capturing batches (bs=304 avail_mem=15.83 GB):  25%|██▌       | 13/51 [01:27<00:24,  1.58it/s]Capturing batches (bs=288 avail_mem=15.83 GB):  25%|██▌       | 13/51 [01:27<00:24,  1.58it/s]Capturing batches (bs=288 avail_mem=15.83 GB):  29%|██▉       | 15/51 [01:27<00:14,  2.45it/s]Capturing batches (bs=272 avail_mem=15.82 GB):  29%|██▉       | 15/51 [01:27<00:14,  2.45it/s]Capturing batches (bs=256 avail_mem=15.81 GB):  29%|██▉       | 15/51 [01:27<00:14,  2.45it/s]Capturing batches (bs=256 avail_mem=15.81 GB):  33%|███▎      | 17/51 [01:27<00:12,  2.63it/s]Capturing batches (bs=248 avail_mem=15.81 GB):  33%|███▎      | 17/51 [01:27<00:12,  2.63it/s]Capturing batches (bs=248 avail_mem=15.81 GB):  35%|███▌      | 18/51 [01:27<00:10,  3.07it/s]Capturing batches (bs=240 avail_mem=15.80 GB):  35%|███▌      | 18/51 [01:27<00:10,  3.07it/s]Capturing batches (bs=232 avail_mem=15.80 GB):  35%|███▌      | 18/51 [01:28<00:10,  3.07it/s]Capturing batches (bs=232 avail_mem=15.80 GB):  39%|███▉      | 20/51 [01:28<00:07,  4.20it/s]Capturing batches (bs=224 avail_mem=15.80 GB):  39%|███▉      | 20/51 [01:28<00:07,  4.20it/s]Capturing batches (bs=224 avail_mem=15.80 GB):  41%|████      | 21/51 [01:28<00:06,  4.76it/s]Capturing batches (bs=216 avail_mem=15.79 GB):  41%|████      | 21/51 [01:28<00:06,  4.76it/s]Capturing batches (bs=208 avail_mem=15.79 GB):  41%|████      | 21/51 [01:28<00:06,  4.76it/s]Capturing batches (bs=208 avail_mem=15.79 GB):  45%|████▌     | 23/51 [01:28<00:04,  6.04it/s]Capturing batches (bs=200 avail_mem=15.78 GB):  45%|████▌     | 23/51 [01:28<00:04,  6.04it/s]Capturing batches (bs=192 avail_mem=15.78 GB):  45%|████▌     | 23/51 [01:28<00:04,  6.04it/s]Capturing batches (bs=192 avail_mem=15.78 GB):  49%|████▉     | 25/51 [01:28<00:04,  5.44it/s]Capturing batches (bs=184 avail_mem=15.78 GB):  49%|████▉     | 25/51 [01:28<00:04,  5.44it/s]Capturing batches (bs=176 avail_mem=15.77 GB):  49%|████▉     | 25/51 [01:28<00:04,  5.44it/s]Capturing batches (bs=176 avail_mem=15.77 GB):  53%|█████▎    | 27/51 [01:29<00:03,  6.53it/s]Capturing batches (bs=168 avail_mem=15.77 GB):  53%|█████▎    | 27/51 [01:29<00:03,  6.53it/s]Capturing batches (bs=160 avail_mem=15.77 GB):  53%|█████▎    | 27/51 [01:29<00:03,  6.53it/s]Capturing batches (bs=160 avail_mem=15.77 GB):  57%|█████▋    | 29/51 [01:29<00:02,  7.49it/s]Capturing batches (bs=152 avail_mem=15.76 GB):  57%|█████▋    | 29/51 [01:29<00:02,  7.49it/s]Capturing batches (bs=144 avail_mem=15.76 GB):  57%|█████▋    | 29/51 [01:29<00:02,  7.49it/s]Capturing batches (bs=144 avail_mem=15.76 GB):  61%|██████    | 31/51 [01:29<00:02,  8.36it/s]Capturing batches (bs=136 avail_mem=15.76 GB):  61%|██████    | 31/51 [01:29<00:02,  8.36it/s]Capturing batches (bs=128 avail_mem=15.76 GB):  61%|██████    | 31/51 [01:29<00:02,  8.36it/s]Capturing batches (bs=128 avail_mem=15.76 GB):  65%|██████▍   | 33/51 [01:30<00:03,  4.54it/s]Capturing batches (bs=120 avail_mem=15.75 GB):  65%|██████▍   | 33/51 [01:30<00:03,  4.54it/s]Capturing batches (bs=112 avail_mem=15.75 GB):  65%|██████▍   | 33/51 [01:30<00:03,  4.54it/s]Capturing batches (bs=112 avail_mem=15.75 GB):  69%|██████▊   | 35/51 [01:30<00:02,  5.54it/s]Capturing batches (bs=104 avail_mem=15.75 GB):  69%|██████▊   | 35/51 [01:30<00:02,  5.54it/s]Capturing batches (bs=96 avail_mem=15.74 GB):  69%|██████▊   | 35/51 [01:30<00:02,  5.54it/s] Capturing batches (bs=96 avail_mem=15.74 GB):  73%|███████▎  | 37/51 [01:30<00:02,  6.55it/s]Capturing batches (bs=88 avail_mem=15.74 GB):  73%|███████▎  | 37/51 [01:30<00:02,  6.55it/s]Capturing batches (bs=80 avail_mem=15.74 GB):  73%|███████▎  | 37/51 [01:30<00:02,  6.55it/s]Capturing batches (bs=80 avail_mem=15.74 GB):  76%|███████▋  | 39/51 [01:30<00:01,  7.53it/s]Capturing batches (bs=72 avail_mem=15.73 GB):  76%|███████▋  | 39/51 [01:30<00:01,  7.53it/s]Capturing batches (bs=64 avail_mem=15.73 GB):  76%|███████▋  | 39/51 [01:30<00:01,  7.53it/s]Capturing batches (bs=64 avail_mem=15.73 GB):  80%|████████  | 41/51 [01:31<00:02,  4.51it/s]Capturing batches (bs=56 avail_mem=15.72 GB):  80%|████████  | 41/51 [01:31<00:02,  4.51it/s]Capturing batches (bs=48 avail_mem=15.72 GB):  80%|████████  | 41/51 [01:31<00:02,  4.51it/s]Capturing batches (bs=48 avail_mem=15.72 GB):  84%|████████▍ | 43/51 [01:31<00:01,  5.49it/s]Capturing batches (bs=40 avail_mem=15.71 GB):  84%|████████▍ | 43/51 [01:31<00:01,  5.49it/s]Capturing batches (bs=32 avail_mem=15.71 GB):  84%|████████▍ | 43/51 [01:31<00:01,  5.49it/s]Capturing batches (bs=32 avail_mem=15.71 GB):  88%|████████▊ | 45/51 [01:32<00:00,  6.49it/s]Capturing batches (bs=24 avail_mem=15.70 GB):  88%|████████▊ | 45/51 [01:32<00:00,  6.49it/s]Capturing batches (bs=16 avail_mem=15.70 GB):  88%|████████▊ | 45/51 [01:32<00:00,  6.49it/s][rank6]:W1026 02:12:19.678000 3118971 /scratch/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/torch/_inductor/triton_bundler.py:401] [0/0] Directory /tmp/triton_3478/tmp.26bb49b4-6de8-445a-ad13-547685010716 is not empty - skipping!
+Capturing batches (bs=16 avail_mem=15.70 GB):  92%|█████████▏| 47/51 [01:32<00:00,  6.67it/s]Capturing batches (bs=12 avail_mem=15.70 GB):  92%|█████████▏| 47/51 [01:32<00:00,  6.67it/s][rank6]:W1026 02:12:20.782000 3118971 /scratch/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/torch/_inductor/triton_bundler.py:401] [0/1] Directory /tmp/triton_3478/tmp.cdbeeb57-5f69-42c3-b1d9-432c8db8180b is not empty - skipping!
+Capturing batches (bs=12 avail_mem=15.70 GB):  94%|█████████▍| 48/51 [01:33<00:00,  3.11it/s]Capturing batches (bs=8 avail_mem=15.69 GB):  94%|█████████▍| 48/51 [01:33<00:00,  3.11it/s] Capturing batches (bs=4 avail_mem=15.69 GB):  94%|█████████▍| 48/51 [01:33<00:00,  3.11it/s]Capturing batches (bs=4 avail_mem=15.69 GB):  98%|█████████▊| 50/51 [01:33<00:00,  4.13it/s]Capturing batches (bs=2 avail_mem=15.69 GB):  98%|█████████▊| 50/51 [01:33<00:00,  4.13it/s][2025-10-26 02:12:21 DP1 TP2 PP1] Registering 0 cuda graph addresses
+[2025-10-26 02:12:21 DP0 TP1 PP1] Registering 0 cuda graph addresses
+Capturing batches (bs=2 avail_mem=15.69 GB): 100%|██████████| 51/51 [01:33<00:00,  1.84s/it]
+[2025-10-26 02:12:21 DP0 TP0 PP1] Registering 0 cuda graph addresses
+[2025-10-26 02:12:21 DP1 TP3 PP1] Registering 0 cuda graph addresses
+[2025-10-26 02:12:21 DP0 TP0 PP1] Capture cuda graph end. Time elapsed: 94.24 s. mem usage=8.57 GB. avail mem=15.68 GB.
+[2025-10-26 14:12:35 DP0 TP0 PP2] Using default MoE kernel config. Performance might be sub-optimal! Config file not found at /scratch/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/layers/moe/fused_moe_triton/configs/triton_3_3_1/E=257,N=512,device_name=NVIDIA_H200,dtype=fp8_w8a8,block_shape=[128, 128].json, you can create them with https://github.com/sgl-project/sglang/tree/main/benchmark/kernels/fused_moe_triton
+[2025-10-26 14:12:35 DP0 TP1 PP2] Using default MoE kernel config. Performance might be sub-optimal! Config file not found at /scratch/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/layers/moe/fused_moe_triton/configs/triton_3_3_1/E=257,N=512,device_name=NVIDIA_H200,dtype=fp8_w8a8,block_shape=[128, 128].json, you can create them with https://github.com/sgl-project/sglang/tree/main/benchmark/kernels/fused_moe_triton
+[2025-10-26 14:12:35 DP1 TP3 PP2] Using default MoE kernel config. Performance might be sub-optimal! Config file not found at /scratch/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/layers/moe/fused_moe_triton/configs/triton_3_3_1/E=257,N=512,device_name=NVIDIA_H200,dtype=fp8_w8a8,block_shape=[128, 128].json, you can create them with https://github.com/sgl-project/sglang/tree/main/benchmark/kernels/fused_moe_triton
+[2025-10-26 14:12:35 DP1 TP2 PP2] Using default MoE kernel config. Performance might be sub-optimal! Config file not found at /scratch/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/layers/moe/fused_moe_triton/configs/triton_3_3_1/E=257,N=512,device_name=NVIDIA_H200,dtype=fp8_w8a8,block_shape=[128, 128].json, you can create them with https://github.com/sgl-project/sglang/tree/main/benchmark/kernels/fused_moe_triton
+Capturing batches (bs=512 avail_mem=24.09 GB):   2%|▏         | 1/51 [01:50<1:32:20, 110.82s/it]Capturing batches (bs=496 avail_mem=15.77 GB):   2%|▏         | 1/51 [01:50<1:32:20, 110.82s/it]Capturing batches (bs=496 avail_mem=15.77 GB):   4%|▍         | 2/51 [01:51<37:31, 45.95s/it]   Capturing batches (bs=480 avail_mem=15.77 GB):   4%|▍         | 2/51 [01:51<37:31, 45.95s/it]Capturing batches (bs=480 avail_mem=15.77 GB):   6%|▌         | 3/51 [01:51<20:00, 25.02s/it]Capturing batches (bs=464 avail_mem=15.76 GB):   6%|▌         | 3/51 [01:51<20:00, 25.02s/it]Capturing batches (bs=464 avail_mem=15.76 GB):   8%|▊         | 4/51 [01:51<11:53, 15.18s/it]Capturing batches (bs=448 avail_mem=15.75 GB):   8%|▊         | 4/51 [01:51<11:53, 15.18s/it]Capturing batches (bs=448 avail_mem=15.75 GB):  10%|▉         | 5/51 [01:51<07:28,  9.75s/it]Capturing batches (bs=432 avail_mem=15.74 GB):  10%|▉         | 5/51 [01:51<07:28,  9.75s/it]Capturing batches (bs=432 avail_mem=15.74 GB):  12%|█▏        | 6/51 [01:51<04:50,  6.47s/it]Capturing batches (bs=416 avail_mem=15.73 GB):  12%|█▏        | 6/51 [01:51<04:50,  6.47s/it]Capturing batches (bs=400 avail_mem=15.72 GB):  12%|█▏        | 6/51 [01:51<04:50,  6.47s/it]Capturing batches (bs=400 avail_mem=15.72 GB):  16%|█▌        | 8/51 [01:51<02:23,  3.33s/it]Capturing batches (bs=384 avail_mem=15.71 GB):  16%|█▌        | 8/51 [01:51<02:23,  3.33s/it]Capturing batches (bs=384 avail_mem=15.71 GB):  18%|█▊        | 9/51 [01:52<01:47,  2.57s/it]Capturing batches (bs=368 avail_mem=15.70 GB):  18%|█▊        | 9/51 [01:52<01:47,  2.57s/it]Capturing batches (bs=368 avail_mem=15.70 GB):  20%|█▉        | 10/51 [01:52<01:17,  1.90s/it]Capturing batches (bs=352 avail_mem=15.69 GB):  20%|█▉        | 10/51 [01:52<01:17,  1.90s/it]Capturing batches (bs=336 avail_mem=15.68 GB):  20%|█▉        | 10/51 [01:52<01:17,  1.90s/it]Capturing batches (bs=336 avail_mem=15.68 GB):  24%|██▎       | 12/51 [01:52<00:43,  1.11s/it]Capturing batches (bs=320 avail_mem=15.68 GB):  24%|██▎       | 12/51 [01:52<00:43,  1.11s/it]Capturing batches (bs=320 avail_mem=15.68 GB):  25%|██▌       | 13/51 [01:52<00:34,  1.10it/s]Capturing batches (bs=304 avail_mem=15.67 GB):  25%|██▌       | 13/51 [01:52<00:34,  1.10it/s]Capturing batches (bs=304 avail_mem=15.67 GB):  27%|██▋       | 14/51 [01:53<00:26,  1.42it/s]Capturing batches (bs=288 avail_mem=15.66 GB):  27%|██▋       | 14/51 [01:53<00:26,  1.42it/s]Capturing batches (bs=288 avail_mem=15.66 GB):  29%|██▉       | 15/51 [01:53<00:19,  1.84it/s]Capturing batches (bs=272 avail_mem=15.65 GB):  29%|██▉       | 15/51 [01:53<00:19,  1.84it/s]Capturing batches (bs=272 avail_mem=15.65 GB):  31%|███▏      | 16/51 [01:53<00:14,  2.37it/s]Capturing batches (bs=256 avail_mem=15.64 GB):  31%|███▏      | 16/51 [01:53<00:14,  2.37it/s]Capturing batches (bs=256 avail_mem=15.64 GB):  33%|███▎      | 17/51 [01:53<00:14,  2.40it/s]Capturing batches (bs=248 avail_mem=15.64 GB):  33%|███▎      | 17/51 [01:53<00:14,  2.40it/s]Capturing batches (bs=248 avail_mem=15.64 GB):  35%|███▌      | 18/51 [01:53<00:10,  3.07it/s]Capturing batches (bs=240 avail_mem=15.63 GB):  35%|███▌      | 18/51 [01:53<00:10,  3.07it/s]Capturing batches (bs=232 avail_mem=15.63 GB):  35%|███▌      | 18/51 [01:53<00:10,  3.07it/s]Capturing batches (bs=232 avail_mem=15.63 GB):  39%|███▉      | 20/51 [01:53<00:06,  4.54it/s]Capturing batches (bs=224 avail_mem=15.63 GB):  39%|███▉      | 20/51 [01:53<00:06,  4.54it/s]Capturing batches (bs=224 avail_mem=15.63 GB):  41%|████      | 21/51 [01:54<00:05,  5.21it/s]Capturing batches (bs=216 avail_mem=15.62 GB):  41%|████      | 21/51 [01:54<00:05,  5.21it/s]Capturing batches (bs=208 avail_mem=15.62 GB):  41%|████      | 21/51 [01:54<00:05,  5.21it/s]Capturing batches (bs=208 avail_mem=15.62 GB):  45%|████▌     | 23/51 [01:54<00:04,  6.53it/s]Capturing batches (bs=200 avail_mem=15.62 GB):  45%|████▌     | 23/51 [01:54<00:04,  6.53it/s]Capturing batches (bs=200 avail_mem=15.62 GB):  47%|████▋     | 24/51 [01:54<00:03,  7.08it/s]Capturing batches (bs=192 avail_mem=15.61 GB):  47%|████▋     | 24/51 [01:54<00:03,  7.08it/s]Capturing batches (bs=192 avail_mem=15.61 GB):  49%|████▉     | 25/51 [01:54<00:04,  6.01it/s]Capturing batches (bs=184 avail_mem=15.61 GB):  49%|████▉     | 25/51 [01:54<00:04,  6.01it/s]Capturing batches (bs=176 avail_mem=15.61 GB):  49%|████▉     | 25/51 [01:54<00:04,  6.01it/s]Capturing batches (bs=176 avail_mem=15.61 GB):  53%|█████▎    | 27/51 [01:54<00:03,  7.38it/s]Capturing batches (bs=168 avail_mem=15.60 GB):  53%|█████▎    | 27/51 [01:54<00:03,  7.38it/s]Capturing batches (bs=160 avail_mem=15.60 GB):  53%|█████▎    | 27/51 [01:54<00:03,  7.38it/s]Capturing batches (bs=160 avail_mem=15.60 GB):  57%|█████▋    | 29/51 [01:54<00:02,  8.42it/s]Capturing batches (bs=152 avail_mem=15.60 GB):  57%|█████▋    | 29/51 [01:54<00:02,  8.42it/s]Capturing batches (bs=144 avail_mem=15.59 GB):  57%|█████▋    | 29/51 [01:55<00:02,  8.42it/s]Capturing batches (bs=144 avail_mem=15.59 GB):  61%|██████    | 31/51 [01:55<00:02,  9.22it/s]Capturing batches (bs=136 avail_mem=15.59 GB):  61%|██████    | 31/51 [01:55<00:02,  9.22it/s]Capturing batches (bs=128 avail_mem=15.59 GB):  61%|██████    | 31/51 [01:55<00:02,  9.22it/s]Capturing batches (bs=128 avail_mem=15.59 GB):  65%|██████▍   | 33/51 [01:55<00:03,  5.66it/s]Capturing batches (bs=120 avail_mem=15.59 GB):  65%|██████▍   | 33/51 [01:55<00:03,  5.66it/s]Capturing batches (bs=112 avail_mem=15.58 GB):  65%|██████▍   | 33/51 [01:55<00:03,  5.66it/s]Capturing batches (bs=112 avail_mem=15.58 GB):  69%|██████▊   | 35/51 [01:55<00:02,  6.71it/s]Capturing batches (bs=104 avail_mem=15.58 GB):  69%|██████▊   | 35/51 [01:55<00:02,  6.71it/s]Capturing batches (bs=96 avail_mem=15.58 GB):  69%|██████▊   | 35/51 [01:56<00:02,  6.71it/s] Capturing batches (bs=96 avail_mem=15.58 GB):  73%|███████▎  | 37/51 [01:56<00:01,  7.70it/s]Capturing batches (bs=88 avail_mem=15.57 GB):  73%|███████▎  | 37/51 [01:56<00:01,  7.70it/s]Capturing batches (bs=80 avail_mem=15.57 GB):  73%|███████▎  | 37/51 [01:56<00:01,  7.70it/s]Capturing batches (bs=80 avail_mem=15.57 GB):  76%|███████▋  | 39/51 [01:56<00:01,  8.56it/s]Capturing batches (bs=72 avail_mem=15.57 GB):  76%|███████▋  | 39/51 [01:56<00:01,  8.56it/s]Capturing batches (bs=64 avail_mem=15.56 GB):  76%|███████▋  | 39/51 [01:56<00:01,  8.56it/s]Capturing batches (bs=64 avail_mem=15.56 GB):  80%|████████  | 41/51 [01:56<00:01,  5.59it/s]Capturing batches (bs=56 avail_mem=15.55 GB):  80%|████████  | 41/51 [01:56<00:01,  5.59it/s]Capturing batches (bs=48 avail_mem=15.55 GB):  80%|████████  | 41/51 [01:57<00:01,  5.59it/s]Capturing batches (bs=48 avail_mem=15.55 GB):  84%|████████▍ | 43/51 [01:57<00:01,  6.59it/s]Capturing batches (bs=40 avail_mem=15.54 GB):  84%|████████▍ | 43/51 [01:57<00:01,  6.59it/s]Capturing batches (bs=32 avail_mem=15.54 GB):  84%|████████▍ | 43/51 [01:57<00:01,  6.59it/s]Capturing batches (bs=32 avail_mem=15.54 GB):  88%|████████▊ | 45/51 [01:57<00:00,  7.53it/s]Capturing batches (bs=24 avail_mem=15.54 GB):  88%|████████▊ | 45/51 [01:57<00:00,  7.53it/s]Capturing batches (bs=16 avail_mem=15.53 GB):  88%|████████▊ | 45/51 [01:57<00:00,  7.53it/s]Capturing batches (bs=16 avail_mem=15.53 GB):  92%|█████████▏| 47/51 [01:57<00:00,  7.49it/s]Capturing batches (bs=12 avail_mem=15.53 GB):  92%|█████████▏| 47/51 [01:57<00:00,  7.49it/s][rank11]:W1026 14:12:45.910000 3004874 /scratch/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/torch/_inductor/triton_bundler.py:401] [0/1] Directory /tmp/triton_3478/tmp.f7ee0e72-e3df-47f6-b860-6d968e91ed05 is not empty - skipping!
+[rank10]:W1026 14:12:45.910000 3004873 /scratch/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/torch/_inductor/triton_bundler.py:401] [0/1] Directory /tmp/triton_3478/tmp.103ed381-fd64-493e-bcaf-b1f9b5bf489f is not empty - skipping!
+Capturing batches (bs=12 avail_mem=15.53 GB):  94%|█████████▍| 48/51 [01:58<00:00,  3.37it/s]Capturing batches (bs=8 avail_mem=15.52 GB):  94%|█████████▍| 48/51 [01:58<00:00,  3.37it/s] Capturing batches (bs=4 avail_mem=15.53 GB):  94%|█████████▍| 48/51 [01:58<00:00,  3.37it/s]Capturing batches (bs=4 avail_mem=15.53 GB):  98%|█████████▊| 50/51 [01:58<00:00,  4.41it/s]Capturing batches (bs=2 avail_mem=15.52 GB):  98%|█████████▊| 50/51 [01:58<00:00,  4.41it/s][2025-10-26 14:12:46 DP0 TP1 PP2] Registering 0 cuda graph addresses
+[2025-10-26 14:12:46 DP1 TP2 PP2] Registering 0 cuda graph addresses
+[2025-10-26 14:12:46 DP1 TP3 PP2] Registering 0 cuda graph addresses
+Capturing batches (bs=2 avail_mem=15.52 GB): 100%|██████████| 51/51 [01:58<00:00,  2.33s/it]
+[2025-10-26 14:12:46 DP0 TP0 PP2] Registering 0 cuda graph addresses
+[2025-10-26 14:12:46 DP0 TP0 PP2] Capture cuda graph end. Time elapsed: 119.37 s. mem usage=8.57 GB. avail mem=15.52 GB.
+[2025-10-26 14:13:11 DP0 TP0 PP3] Using default MoE kernel config. Performance might be sub-optimal! Config file not found at /scratch/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/layers/moe/fused_moe_triton/configs/triton_3_3_1/E=257,N=512,device_name=NVIDIA_H200,dtype=fp8_w8a8,block_shape=[128, 128].json, you can create them with https://github.com/sgl-project/sglang/tree/main/benchmark/kernels/fused_moe_triton
+[2025-10-26 14:13:11 DP1 TP3 PP3] Using default MoE kernel config. Performance might be sub-optimal! Config file not found at /scratch/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/layers/moe/fused_moe_triton/configs/triton_3_3_1/E=257,N=512,device_name=NVIDIA_H200,dtype=fp8_w8a8,block_shape=[128, 128].json, you can create them with https://github.com/sgl-project/sglang/tree/main/benchmark/kernels/fused_moe_triton
+[2025-10-26 14:13:11 DP1 TP2 PP3] Using default MoE kernel config. Performance might be sub-optimal! Config file not found at /scratch/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/layers/moe/fused_moe_triton/configs/triton_3_3_1/E=257,N=512,device_name=NVIDIA_H200,dtype=fp8_w8a8,block_shape=[128, 128].json, you can create them with https://github.com/sgl-project/sglang/tree/main/benchmark/kernels/fused_moe_triton
+[2025-10-26 14:13:11 DP0 TP1 PP3] Using default MoE kernel config. Performance might be sub-optimal! Config file not found at /scratch/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/layers/moe/fused_moe_triton/configs/triton_3_3_1/E=257,N=512,device_name=NVIDIA_H200,dtype=fp8_w8a8,block_shape=[128, 128].json, you can create them with https://github.com/sgl-project/sglang/tree/main/benchmark/kernels/fused_moe_triton
+Capturing batches (bs=512 avail_mem=17.00 GB):   2%|▏         | 1/51 [02:24<2:00:14, 144.29s/it]Capturing batches (bs=496 avail_mem=8.69 GB):   2%|▏         | 1/51 [02:24<2:00:14, 144.29s/it] Capturing batches (bs=496 avail_mem=8.69 GB):   4%|▍         | 2/51 [02:24<48:48, 59.76s/it]   Capturing batches (bs=480 avail_mem=8.68 GB):   4%|▍         | 2/51 [02:24<48:48, 59.76s/it]Capturing batches (bs=480 avail_mem=8.68 GB):   6%|▌         | 3/51 [02:24<26:01, 32.52s/it]Capturing batches (bs=464 avail_mem=8.67 GB):   6%|▌         | 3/51 [02:24<26:01, 32.52s/it]Capturing batches (bs=464 avail_mem=8.67 GB):   8%|▊         | 4/51 [02:25<15:27, 19.73s/it]Capturing batches (bs=448 avail_mem=8.66 GB):   8%|▊         | 4/51 [02:25<15:27, 19.73s/it]Capturing batches (bs=448 avail_mem=8.66 GB):  10%|▉         | 5/51 [02:25<09:42, 12.66s/it]Capturing batches (bs=432 avail_mem=8.65 GB):  10%|▉         | 5/51 [02:25<09:42, 12.66s/it]Capturing batches (bs=432 avail_mem=8.65 GB):  12%|█▏        | 6/51 [02:25<06:17,  8.39s/it]Capturing batches (bs=416 avail_mem=8.64 GB):  12%|█▏        | 6/51 [02:25<06:17,  8.39s/it]Capturing batches (bs=416 avail_mem=8.64 GB):  14%|█▎        | 7/51 [02:25<04:10,  5.68s/it]Capturing batches (bs=400 avail_mem=8.63 GB):  14%|█▎        | 7/51 [02:25<04:10,  5.68s/it]Capturing batches (bs=400 avail_mem=8.63 GB):  16%|█▌        | 8/51 [02:25<02:48,  3.91s/it]Capturing batches (bs=384 avail_mem=8.62 GB):  16%|█▌        | 8/51 [02:25<02:48,  3.91s/it]Capturing batches (bs=384 avail_mem=8.62 GB):  16%|█▌        | 8/51 [02:25<13:04, 18.24s/it]
+[2025-10-26 14:13:13 DP1 TP3 PP3] Registering 0 cuda graph addresses
+[2025-10-26 14:13:13 DP1 TP2 PP3] Registering 0 cuda graph addresses
+[2025-10-26 14:13:13 DP0 TP1 PP3] Registering 0 cuda graph addresses
+[2025-10-26 14:13:13 DP0 TP0 PP3] Registering 0 cuda graph addresses
+[2025-10-26 14:13:13 DP1 TP3 PP3] Scheduler hit an exception: Traceback (most recent call last):
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/model_executor/cuda_graph_runner.py", line 366, in __init__
+    self.capture()
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/model_executor/cuda_graph_runner.py", line 485, in capture
+    ) = self.capture_one_batch_size(bs, forward)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/model_executor/cuda_graph_runner.py", line 661, in capture_one_batch_size
+    run_once()
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/model_executor/cuda_graph_runner.py", line 650, in run_once
+    logits_output_or_pp_proxy_tensors = forward(
+                                        ^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/torch/utils/_contextlib.py", line 120, in decorate_context
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/models/deepseek_v2.py", line 2869, in forward
+    hidden_states = self.model(
+                    ^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1773, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1784, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/models/deepseek_v2.py", line 2733, in forward
+    hidden_states, residual = layer(
+                              ^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1773, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1784, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/models/deepseek_v2.py", line 2462, in forward
+    hidden_states = self.self_attn(
+                    ^^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1773, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1784, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/models/deepseek_v2.py", line 1296, in forward
+    return self.forward_core(s)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/models/deepseek_v2.py", line 1382, in forward_core
+    return self.forward_absorb_core(*inner_state)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/models/deepseek_v2.py", line 1632, in forward_absorb_core
+    attn_output = self.attn_mqa(
+                  ^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1773, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1784, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/layers/radix_attention.py", line 108, in forward
+    return forward_batch.attn_backend.forward(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/layers/attention/base_attn_backend.py", line 72, in forward
+    return self.forward_decode(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/layers/attention/flashattention_backend.py", line 1171, in forward_decode
+    result = flash_attn_with_kvcache(
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sgl_kernel/flash_attn.py", line 221, in flash_attn_with_kvcache
+    out, softmax_lse, *rest = torch.ops.sgl_kernel.fwd.default(
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/torch/_ops.py", line 829, in __call__
+    return self._op(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+torch.OutOfMemoryError: CUDA out of memory. Tried to allocate 5.11 GiB. GPU 7 has a total capacity of 139.80 GiB of which 3.85 GiB is free. Including non-PyTorch memory, this process has 135.95 GiB memory in use. Of the allocated memory 127.15 GiB is allocated by PyTorch, with 6.94 GiB allocated in private pools (e.g., CUDA Graphs), and 5.97 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/managers/scheduler.py", line 2847, in run_scheduler_process
+    scheduler = Scheduler(
+                ^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/managers/scheduler.py", line 396, in __init__
+    self.tp_worker = TpWorkerClass(
+                     ^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/managers/tp_worker.py", line 100, in __init__
+    self.model_runner = ModelRunner(
+                        ^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/model_executor/model_runner.py", line 298, in __init__
+    self.initialize(min_per_gpu_memory)
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/model_executor/model_runner.py", line 440, in initialize
+    self.init_device_graphs()
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/model_executor/model_runner.py", line 1842, in init_device_graphs
+    self.graph_runner = graph_runners[self.device](self)
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/model_executor/cuda_graph_runner.py", line 368, in __init__
+    raise Exception(
+Exception: Capture cuda graph failed: CUDA out of memory. Tried to allocate 5.11 GiB. GPU 7 has a total capacity of 139.80 GiB of which 3.85 GiB is free. Including non-PyTorch memory, this process has 135.95 GiB memory in use. Of the allocated memory 127.15 GiB is allocated by PyTorch, with 6.94 GiB allocated in private pools (e.g., CUDA Graphs), and 5.97 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+Possible solutions:
+1. set --mem-fraction-static to a smaller value (e.g., 0.8 or 0.7)
+2. set --cuda-graph-max-bs to a smaller value (e.g., 16)
+3. disable torch compile by not using --enable-torch-compile
+4. disable CUDA graph by --disable-cuda-graph. (Not recommended. Huge performance loss)
+Open an issue on GitHub https://github.com/sgl-project/sglang/issues/new/choose 
+
+
+[2025-10-26 14:13:13 DP1 TP2 PP3] Scheduler hit an exception: Traceback (most recent call last):
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/model_executor/cuda_graph_runner.py", line 366, in __init__
+    self.capture()
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/model_executor/cuda_graph_runner.py", line 485, in capture
+    ) = self.capture_one_batch_size(bs, forward)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/model_executor/cuda_graph_runner.py", line 661, in capture_one_batch_size
+    run_once()
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/model_executor/cuda_graph_runner.py", line 650, in run_once
+    logits_output_or_pp_proxy_tensors = forward(
+                                        ^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/torch/utils/_contextlib.py", line 120, in decorate_context
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/models/deepseek_v2.py", line 2869, in forward
+    hidden_states = self.model(
+                    ^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1773, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1784, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/models/deepseek_v2.py", line 2733, in forward
+    hidden_states, residual = layer(
+                              ^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1773, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1784, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/models/deepseek_v2.py", line 2462, in forward
+    hidden_states = self.self_attn(
+                    ^^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1773, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1784, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/models/deepseek_v2.py", line 1296, in forward
+    return self.forward_core(s)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/models/deepseek_v2.py", line 1382, in forward_core
+    return self.forward_absorb_core(*inner_state)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/models/deepseek_v2.py", line 1632, in forward_absorb_core
+    attn_output = self.attn_mqa(
+                  ^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1773, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1784, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/layers/radix_attention.py", line 108, in forward
+    return forward_batch.attn_backend.forward(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/layers/attention/base_attn_backend.py", line 72, in forward
+    return self.forward_decode(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/layers/attention/flashattention_backend.py", line 1171, in forward_decode
+    result = flash_attn_with_kvcache(
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sgl_kernel/flash_attn.py", line 221, in flash_attn_with_kvcache
+    out, softmax_lse, *rest = torch.ops.sgl_kernel.fwd.default(
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/torch/_ops.py", line 829, in __call__
+    return self._op(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+torch.OutOfMemoryError: CUDA out of memory. Tried to allocate 5.11 GiB. GPU 6 has a total capacity of 139.80 GiB of which 3.38 GiB is free. Including non-PyTorch memory, this process has 136.41 GiB memory in use. Of the allocated memory 127.15 GiB is allocated by PyTorch, with 6.94 GiB allocated in private pools (e.g., CUDA Graphs), and 5.97 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/managers/scheduler.py", line 2847, in run_scheduler_process
+    scheduler = Scheduler(
+                ^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/managers/scheduler.py", line 396, in __init__
+    self.tp_worker = TpWorkerClass(
+                     ^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/managers/tp_worker.py", line 100, in __init__
+    self.model_runner = ModelRunner(
+                        ^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/model_executor/model_runner.py", line 298, in __init__
+    self.initialize(min_per_gpu_memory)
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/model_executor/model_runner.py", line 440, in initialize
+    self.init_device_graphs()
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/model_executor/model_runner.py", line 1842, in init_device_graphs
+    self.graph_runner = graph_runners[self.device](self)
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/model_executor/cuda_graph_runner.py", line 368, in __init__
+    raise Exception(
+Exception: Capture cuda graph failed: CUDA out of memory. Tried to allocate 5.11 GiB. GPU 6 has a total capacity of 139.80 GiB of which 3.38 GiB is free. Including non-PyTorch memory, this process has 136.41 GiB memory in use. Of the allocated memory 127.15 GiB is allocated by PyTorch, with 6.94 GiB allocated in private pools (e.g., CUDA Graphs), and 5.97 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+Possible solutions:
+1. set --mem-fraction-static to a smaller value (e.g., 0.8 or 0.7)
+2. set --cuda-graph-max-bs to a smaller value (e.g., 16)
+3. disable torch compile by not using --enable-torch-compile
+4. disable CUDA graph by --disable-cuda-graph. (Not recommended. Huge performance loss)
+Open an issue on GitHub https://github.com/sgl-project/sglang/issues/new/choose 
+
+
+[2025-10-26 14:13:13 DP0 TP1 PP3] Scheduler hit an exception: Traceback (most recent call last):
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/model_executor/cuda_graph_runner.py", line 366, in __init__
+    self.capture()
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/model_executor/cuda_graph_runner.py", line 485, in capture
+    ) = self.capture_one_batch_size(bs, forward)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/model_executor/cuda_graph_runner.py", line 661, in capture_one_batch_size
+    run_once()
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/model_executor/cuda_graph_runner.py", line 650, in run_once
+    logits_output_or_pp_proxy_tensors = forward(
+                                        ^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/torch/utils/_contextlib.py", line 120, in decorate_context
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/models/deepseek_v2.py", line 2869, in forward
+    hidden_states = self.model(
+                    ^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1773, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1784, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/models/deepseek_v2.py", line 2733, in forward
+    hidden_states, residual = layer(
+                              ^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1773, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1784, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/models/deepseek_v2.py", line 2462, in forward
+    hidden_states = self.self_attn(
+                    ^^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1773, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1784, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/models/deepseek_v2.py", line 1296, in forward
+    return self.forward_core(s)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/models/deepseek_v2.py", line 1382, in forward_core
+    return self.forward_absorb_core(*inner_state)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/models/deepseek_v2.py", line 1632, in forward_absorb_core
+    attn_output = self.attn_mqa(
+                  ^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1773, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1784, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/layers/radix_attention.py", line 108, in forward
+    return forward_batch.attn_backend.forward(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/layers/attention/base_attn_backend.py", line 72, in forward
+    return self.forward_decode(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/layers/attention/flashattention_backend.py", line 1171, in forward_decode
+    result = flash_attn_with_kvcache(
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sgl_kernel/flash_attn.py", line 221, in flash_attn_with_kvcache
+    out, softmax_lse, *rest = torch.ops.sgl_kernel.fwd.default(
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/torch/_ops.py", line 829, in __call__
+    return self._op(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+torch.OutOfMemoryError: CUDA out of memory. Tried to allocate 5.11 GiB. GPU 5 has a total capacity of 139.80 GiB of which 3.38 GiB is free. Including non-PyTorch memory, this process has 136.41 GiB memory in use. Of the allocated memory 127.15 GiB is allocated by PyTorch, with 6.94 GiB allocated in private pools (e.g., CUDA Graphs), and 5.97 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/managers/scheduler.py", line 2847, in run_scheduler_process
+    scheduler = Scheduler(
+                ^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/managers/scheduler.py", line 396, in __init__
+    self.tp_worker = TpWorkerClass(
+                     ^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/managers/tp_worker.py", line 100, in __init__
+    self.model_runner = ModelRunner(
+                        ^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/model_executor/model_runner.py", line 298, in __init__
+    self.initialize(min_per_gpu_memory)
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/model_executor/model_runner.py", line 440, in initialize
+    self.init_device_graphs()
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/model_executor/model_runner.py", line 1842, in init_device_graphs
+    self.graph_runner = graph_runners[self.device](self)
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/model_executor/cuda_graph_runner.py", line 368, in __init__
+    raise Exception(
+Exception: Capture cuda graph failed: CUDA out of memory. Tried to allocate 5.11 GiB. GPU 5 has a total capacity of 139.80 GiB of which 3.38 GiB is free. Including non-PyTorch memory, this process has 136.41 GiB memory in use. Of the allocated memory 127.15 GiB is allocated by PyTorch, with 6.94 GiB allocated in private pools (e.g., CUDA Graphs), and 5.97 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+Possible solutions:
+1. set --mem-fraction-static to a smaller value (e.g., 0.8 or 0.7)
+2. set --cuda-graph-max-bs to a smaller value (e.g., 16)
+3. disable torch compile by not using --enable-torch-compile
+4. disable CUDA graph by --disable-cuda-graph. (Not recommended. Huge performance loss)
+Open an issue on GitHub https://github.com/sgl-project/sglang/issues/new/choose 
+
+
+[2025-10-26 14:13:13 DP0 TP0 PP3] Scheduler hit an exception: Traceback (most recent call last):
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/model_executor/cuda_graph_runner.py", line 366, in __init__
+    self.capture()
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/model_executor/cuda_graph_runner.py", line 485, in capture
+    ) = self.capture_one_batch_size(bs, forward)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/model_executor/cuda_graph_runner.py", line 661, in capture_one_batch_size
+    run_once()
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/model_executor/cuda_graph_runner.py", line 650, in run_once
+    logits_output_or_pp_proxy_tensors = forward(
+                                        ^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/torch/utils/_contextlib.py", line 120, in decorate_context
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/models/deepseek_v2.py", line 2869, in forward
+    hidden_states = self.model(
+                    ^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1773, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1784, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/models/deepseek_v2.py", line 2733, in forward
+    hidden_states, residual = layer(
+                              ^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1773, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1784, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/models/deepseek_v2.py", line 2462, in forward
+    hidden_states = self.self_attn(
+                    ^^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1773, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1784, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/models/deepseek_v2.py", line 1296, in forward
+    return self.forward_core(s)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/models/deepseek_v2.py", line 1382, in forward_core
+    return self.forward_absorb_core(*inner_state)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/models/deepseek_v2.py", line 1632, in forward_absorb_core
+    attn_output = self.attn_mqa(
+                  ^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1773, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1784, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/layers/radix_attention.py", line 108, in forward
+    return forward_batch.attn_backend.forward(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/layers/attention/base_attn_backend.py", line 72, in forward
+    return self.forward_decode(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/layers/attention/flashattention_backend.py", line 1171, in forward_decode
+    result = flash_attn_with_kvcache(
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sgl_kernel/flash_attn.py", line 221, in flash_attn_with_kvcache
+    out, softmax_lse, *rest = torch.ops.sgl_kernel.fwd.default(
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/torch/_ops.py", line 829, in __call__
+    return self._op(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+torch.OutOfMemoryError: CUDA out of memory. Tried to allocate 5.11 GiB. GPU 4 has a total capacity of 139.80 GiB of which 3.44 GiB is free. Including non-PyTorch memory, this process has 136.35 GiB memory in use. Of the allocated memory 127.15 GiB is allocated by PyTorch, with 6.94 GiB allocated in private pools (e.g., CUDA Graphs), and 5.97 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/managers/scheduler.py", line 2847, in run_scheduler_process
+    scheduler = Scheduler(
+                ^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/managers/scheduler.py", line 396, in __init__
+    self.tp_worker = TpWorkerClass(
+                     ^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/managers/tp_worker.py", line 100, in __init__
+    self.model_runner = ModelRunner(
+                        ^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/model_executor/model_runner.py", line 298, in __init__
+    self.initialize(min_per_gpu_memory)
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/model_executor/model_runner.py", line 440, in initialize
+    self.init_device_graphs()
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/model_executor/model_runner.py", line 1842, in init_device_graphs
+    self.graph_runner = graph_runners[self.device](self)
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/model_executor/cuda_graph_runner.py", line 368, in __init__
+    raise Exception(
+Exception: Capture cuda graph failed: CUDA out of memory. Tried to allocate 5.11 GiB. GPU 4 has a total capacity of 139.80 GiB of which 3.44 GiB is free. Including non-PyTorch memory, this process has 136.35 GiB memory in use. Of the allocated memory 127.15 GiB is allocated by PyTorch, with 6.94 GiB allocated in private pools (e.g., CUDA Graphs), and 5.97 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+Possible solutions:
+1. set --mem-fraction-static to a smaller value (e.g., 0.8 or 0.7)
+2. set --cuda-graph-max-bs to a smaller value (e.g., 16)
+3. disable torch compile by not using --enable-torch-compile
+4. disable CUDA graph by --disable-cuda-graph. (Not recommended. Huge performance loss)
+Open an issue on GitHub https://github.com/sgl-project/sglang/issues/new/choose 
+
+
+[rank14]:[W1026 14:13:15.212718216 ProcessGroupNCCL.cpp:1538] Warning: WARNING: destroy_process_group() was not called before program exit, which can leak resources. For more info, please see https://pytorch.org/docs/stable/distributed.html#shutdown (function operator())
+[rank15]:[W1026 14:13:15.222832381 ProcessGroupNCCL.cpp:1538] Warning: WARNING: destroy_process_group() was not called before program exit, which can leak resources. For more info, please see https://pytorch.org/docs/stable/distributed.html#shutdown (function operator())
+[rank12]:[W1026 14:13:15.222867476 ProcessGroupNCCL.cpp:1538] Warning: WARNING: destroy_process_group() was not called before program exit, which can leak resources. For more info, please see https://pytorch.org/docs/stable/distributed.html#shutdown (function operator())
+[rank13]:[W1026 14:13:15.222880160 ProcessGroupNCCL.cpp:1538] Warning: WARNING: destroy_process_group() was not called before program exit, which can leak resources. For more info, please see https://pytorch.org/docs/stable/distributed.html#shutdown (function operator())
+[2025-10-26 02:13:25 DP1 TP3 PP0] Using default MoE kernel config. Performance might be sub-optimal! Config file not found at /scratch/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/layers/moe/fused_moe_triton/configs/triton_3_3_1/E=257,N=512,device_name=NVIDIA_H200,dtype=fp8_w8a8,block_shape=[128, 128].json, you can create them with https://github.com/sgl-project/sglang/tree/main/benchmark/kernels/fused_moe_triton
+[2025-10-26 02:13:25 DP0 TP0 PP0] Using default MoE kernel config. Performance might be sub-optimal! Config file not found at /scratch/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/layers/moe/fused_moe_triton/configs/triton_3_3_1/E=257,N=512,device_name=NVIDIA_H200,dtype=fp8_w8a8,block_shape=[128, 128].json, you can create them with https://github.com/sgl-project/sglang/tree/main/benchmark/kernels/fused_moe_triton
+[2025-10-26 02:13:25 DP0 TP1 PP0] Using default MoE kernel config. Performance might be sub-optimal! Config file not found at /scratch/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/layers/moe/fused_moe_triton/configs/triton_3_3_1/E=257,N=512,device_name=NVIDIA_H200,dtype=fp8_w8a8,block_shape=[128, 128].json, you can create them with https://github.com/sgl-project/sglang/tree/main/benchmark/kernels/fused_moe_triton
+[2025-10-26 02:13:25 DP1 TP2 PP0] Using default MoE kernel config. Performance might be sub-optimal! Config file not found at /scratch/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/layers/moe/fused_moe_triton/configs/triton_3_3_1/E=257,N=512,device_name=NVIDIA_H200,dtype=fp8_w8a8,block_shape=[128, 128].json, you can create them with https://github.com/sgl-project/sglang/tree/main/benchmark/kernels/fused_moe_triton
+Capturing batches (bs=512 avail_mem=30.77 GB):   2%|▏         | 1/51 [02:38<2:11:47, 158.16s/it]Capturing batches (bs=496 avail_mem=22.44 GB):   2%|▏         | 1/51 [02:38<2:11:47, 158.16s/it]Capturing batches (bs=496 avail_mem=22.44 GB):   4%|▍         | 2/51 [02:38<53:31, 65.54s/it]   Capturing batches (bs=480 avail_mem=22.44 GB):   4%|▍         | 2/51 [02:38<53:31, 65.54s/it]Capturing batches (bs=480 avail_mem=22.44 GB):   6%|▌         | 3/51 [02:39<28:32, 35.67s/it]Capturing batches (bs=464 avail_mem=22.43 GB):   6%|▌         | 3/51 [02:39<28:32, 35.67s/it]Capturing batches (bs=448 avail_mem=22.42 GB):   6%|▌         | 3/51 [02:39<28:32, 35.67s/it]Capturing batches (bs=448 avail_mem=22.42 GB):  10%|▉         | 5/51 [02:39<11:57, 15.60s/it]Capturing batches (bs=432 avail_mem=22.41 GB):  10%|▉         | 5/51 [02:39<11:57, 15.60s/it]Capturing batches (bs=432 avail_mem=22.41 GB):  12%|█▏        | 6/51 [02:39<08:21, 11.14s/it]Capturing batches (bs=416 avail_mem=22.40 GB):  12%|█▏        | 6/51 [02:39<08:21, 11.14s/it]Capturing batches (bs=416 avail_mem=22.40 GB):  14%|█▎        | 7/51 [02:39<05:48,  7.92s/it]Capturing batches (bs=400 avail_mem=22.39 GB):  14%|█▎        | 7/51 [02:39<05:48,  7.92s/it]Capturing batches (bs=400 avail_mem=22.39 GB):  16%|█▌        | 8/51 [02:39<04:01,  5.63s/it]Capturing batches (bs=384 avail_mem=22.38 GB):  16%|█▌        | 8/51 [02:39<04:01,  5.63s/it]Capturing batches (bs=384 avail_mem=22.38 GB):  18%|█▊        | 9/51 [02:40<02:57,  4.21s/it]Capturing batches (bs=368 avail_mem=22.37 GB):  18%|█▊        | 9/51 [02:40<02:57,  4.21s/it]Capturing batches (bs=368 avail_mem=22.37 GB):  20%|█▉        | 10/51 [02:40<02:02,  2.99s/it]Capturing batches (bs=352 avail_mem=22.37 GB):  20%|█▉        | 10/51 [02:40<02:02,  2.99s/it]Capturing batches (bs=352 avail_mem=22.37 GB):  22%|██▏       | 11/51 [02:40<01:25,  2.13s/it]Capturing batches (bs=336 avail_mem=22.36 GB):  22%|██▏       | 11/51 [02:40<01:25,  2.13s/it]Capturing batches (bs=336 avail_mem=22.36 GB):  24%|██▎       | 12/51 [02:40<00:59,  1.53s/it]Capturing batches (bs=320 avail_mem=22.35 GB):  24%|██▎       | 12/51 [02:40<00:59,  1.53s/it]Capturing batches (bs=320 avail_mem=22.35 GB):  25%|██▌       | 13/51 [02:41<00:46,  1.22s/it]Capturing batches (bs=304 avail_mem=22.34 GB):  25%|██▌       | 13/51 [02:41<00:46,  1.22s/it]Capturing batches (bs=288 avail_mem=22.33 GB):  25%|██▌       | 13/51 [02:41<00:46,  1.22s/it]Capturing batches (bs=288 avail_mem=22.33 GB):  29%|██▉       | 15/51 [02:41<00:25,  1.42it/s]Capturing batches (bs=272 avail_mem=22.32 GB):  29%|██▉       | 15/51 [02:41<00:25,  1.42it/s]Capturing batches (bs=256 avail_mem=22.31 GB):  29%|██▉       | 15/51 [02:41<00:25,  1.42it/s]Capturing batches (bs=256 avail_mem=22.31 GB):  33%|███▎      | 17/51 [02:42<00:19,  1.71it/s]Capturing batches (bs=248 avail_mem=22.31 GB):  33%|███▎      | 17/51 [02:42<00:19,  1.71it/s]Capturing batches (bs=248 avail_mem=22.31 GB):  35%|███▌      | 18/51 [02:42<00:18,  1.77it/s]Capturing batches (bs=240 avail_mem=22.30 GB):  35%|███▌      | 18/51 [02:42<00:18,  1.77it/s]Capturing batches (bs=232 avail_mem=22.30 GB):  35%|███▌      | 18/51 [02:42<00:18,  1.77it/s]Capturing batches (bs=232 avail_mem=22.30 GB):  39%|███▉      | 20/51 [02:43<00:11,  2.63it/s]Capturing batches (bs=224 avail_mem=22.30 GB):  39%|███▉      | 20/51 [02:43<00:11,  2.63it/s]Capturing batches (bs=216 avail_mem=22.29 GB):  39%|███▉      | 20/51 [02:43<00:11,  2.63it/s]Capturing batches (bs=216 avail_mem=22.29 GB):  43%|████▎     | 22/51 [02:43<00:08,  3.61it/s]Capturing batches (bs=208 avail_mem=22.29 GB):  43%|████▎     | 22/51 [02:43<00:08,  3.61it/s]Capturing batches (bs=200 avail_mem=22.29 GB):  43%|████▎     | 22/51 [02:43<00:08,  3.61it/s]Capturing batches (bs=200 avail_mem=22.29 GB):  47%|████▋     | 24/51 [02:43<00:05,  4.69it/s]Capturing batches (bs=192 avail_mem=22.29 GB):  47%|████▋     | 24/51 [02:43<00:05,  4.69it/s]Capturing batches (bs=192 avail_mem=22.29 GB):  49%|████▉     | 25/51 [02:43<00:06,  3.77it/s]Capturing batches (bs=184 avail_mem=22.28 GB):  49%|████▉     | 25/51 [02:43<00:06,  3.77it/s]Capturing batches (bs=176 avail_mem=22.28 GB):  49%|████▉     | 25/51 [02:44<00:06,  3.77it/s]Capturing batches (bs=176 avail_mem=22.28 GB):  53%|█████▎    | 27/51 [02:44<00:04,  4.96it/s]Capturing batches (bs=168 avail_mem=22.27 GB):  53%|█████▎    | 27/51 [02:44<00:04,  4.96it/s]Capturing batches (bs=160 avail_mem=22.27 GB):  53%|█████▎    | 27/51 [02:44<00:04,  4.96it/s]Capturing batches (bs=160 avail_mem=22.27 GB):  57%|█████▋    | 29/51 [02:44<00:03,  6.14it/s]Capturing batches (bs=152 avail_mem=22.27 GB):  57%|█████▋    | 29/51 [02:44<00:03,  6.14it/s]Capturing batches (bs=144 avail_mem=22.27 GB):  57%|█████▋    | 29/51 [02:44<00:03,  6.14it/s]Capturing batches (bs=144 avail_mem=22.27 GB):  61%|██████    | 31/51 [02:44<00:02,  7.28it/s]Capturing batches (bs=136 avail_mem=22.26 GB):  61%|██████    | 31/51 [02:44<00:02,  7.28it/s]Capturing batches (bs=128 avail_mem=22.26 GB):  61%|██████    | 31/51 [02:44<00:02,  7.28it/s]Capturing batches (bs=128 avail_mem=22.26 GB):  65%|██████▍   | 33/51 [02:45<00:04,  4.13it/s]Capturing batches (bs=120 avail_mem=22.26 GB):  65%|██████▍   | 33/51 [02:45<00:04,  4.13it/s]Capturing batches (bs=112 avail_mem=22.26 GB):  65%|██████▍   | 33/51 [02:45<00:04,  4.13it/s]Capturing batches (bs=112 avail_mem=22.26 GB):  69%|██████▊   | 35/51 [02:45<00:03,  5.18it/s]Capturing batches (bs=104 avail_mem=22.25 GB):  69%|██████▊   | 35/51 [02:45<00:03,  5.18it/s]Capturing batches (bs=96 avail_mem=22.25 GB):  69%|██████▊   | 35/51 [02:45<00:03,  5.18it/s] Capturing batches (bs=96 avail_mem=22.25 GB):  73%|███████▎  | 37/51 [02:45<00:02,  6.25it/s]Capturing batches (bs=88 avail_mem=22.25 GB):  73%|███████▎  | 37/51 [02:45<00:02,  6.25it/s]Capturing batches (bs=80 avail_mem=22.25 GB):  73%|███████▎  | 37/51 [02:45<00:02,  6.25it/s]Capturing batches (bs=80 avail_mem=22.25 GB):  76%|███████▋  | 39/51 [02:45<00:01,  7.33it/s]Capturing batches (bs=72 avail_mem=22.24 GB):  76%|███████▋  | 39/51 [02:45<00:01,  7.33it/s]Capturing batches (bs=64 avail_mem=22.23 GB):  76%|███████▋  | 39/51 [02:45<00:01,  7.33it/s]Capturing batches (bs=64 avail_mem=22.23 GB):  80%|████████  | 41/51 [02:47<00:02,  3.74it/s]Capturing batches (bs=56 avail_mem=22.23 GB):  80%|████████  | 41/51 [02:47<00:02,  3.74it/s]Capturing batches (bs=48 avail_mem=22.22 GB):  80%|████████  | 41/51 [02:47<00:02,  3.74it/s]Capturing batches (bs=48 avail_mem=22.22 GB):  84%|████████▍ | 43/51 [02:47<00:01,  4.70it/s]Capturing batches (bs=40 avail_mem=22.22 GB):  84%|████████▍ | 43/51 [02:47<00:01,  4.70it/s]Capturing batches (bs=32 avail_mem=22.22 GB):  84%|████████▍ | 43/51 [02:47<00:01,  4.70it/s]Capturing batches (bs=32 avail_mem=22.22 GB):  88%|████████▊ | 45/51 [02:47<00:01,  4.20it/s]Capturing batches (bs=24 avail_mem=22.21 GB):  88%|████████▊ | 45/51 [02:47<00:01,  4.20it/s]Capturing batches (bs=16 avail_mem=22.21 GB):  88%|████████▊ | 45/51 [02:47<00:01,  4.20it/s]Capturing batches (bs=16 avail_mem=22.21 GB):  92%|█████████▏| 47/51 [02:48<00:00,  4.67it/s]Capturing batches (bs=12 avail_mem=22.21 GB):  92%|█████████▏| 47/51 [02:48<00:00,  4.67it/s]Capturing batches (bs=12 avail_mem=22.21 GB):  94%|█████████▍| 48/51 [02:48<00:00,  4.71it/s]Capturing batches (bs=8 avail_mem=22.20 GB):  94%|█████████▍| 48/51 [02:48<00:00,  4.71it/s] Capturing batches (bs=4 avail_mem=22.20 GB):  94%|█████████▍| 48/51 [02:48<00:00,  4.71it/s]Capturing batches (bs=4 avail_mem=22.20 GB):  98%|█████████▊| 50/51 [02:48<00:00,  5.94it/s]Capturing batches (bs=2 avail_mem=22.20 GB):  98%|█████████▊| 50/51 [02:48<00:00,  5.94it/s][2025-10-26 02:13:35 DP1 TP2 PP0] Registering 0 cuda graph addresses
+Capturing batches (bs=2 avail_mem=22.20 GB): 100%|██████████| 51/51 [02:48<00:00,  3.30s/it]
+[2025-10-26 02:13:35 DP1 TP3 PP0] Registering 0 cuda graph addresses
+[2025-10-26 02:13:35 DP0 TP0 PP0] Registering 0 cuda graph addresses
+[2025-10-26 02:13:35 DP0 TP1 PP0] Registering 0 cuda graph addresses
+[2025-10-26 02:13:36 DP0 TP0 PP0] Capture cuda graph end. Time elapsed: 169.07 s. mem usage=9.44 GB. avail mem=22.20 GB.
+[2025-10-26 02:13:37 DP1 TP2 PP1] Scheduler hit an exception: Traceback (most recent call last):
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/managers/scheduler.py", line 2847, in run_scheduler_process
+    scheduler = Scheduler(
+                ^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/managers/scheduler.py", line 396, in __init__
+    self.tp_worker = TpWorkerClass(
+                     ^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/managers/tp_worker.py", line 168, in __init__
+    self.random_seed = broadcast_pyobj(
+                       ^^^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/utils/common.py", line 1163, in broadcast_pyobj
+    dist.broadcast(tensor_size, src=src, group=dist_group)
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/torch/distributed/c10d_logger.py", line 81, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/torch/distributed/distributed_c10d.py", line 2830, in broadcast
+    work.wait()
+RuntimeError: [/pytorch/third_party/gloo/gloo/transport/tcp/pair.cc:544] Connection closed by peer [198.18.151.54]:50847
+
+[2025-10-26 02:13:37 DP1 TP3 PP1] Scheduler hit an exception: Traceback (most recent call last):
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/managers/scheduler.py", line 2847, in run_scheduler_process
+    scheduler = Scheduler(
+                ^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/managers/scheduler.py", line 396, in __init__
+    self.tp_worker = TpWorkerClass(
+                     ^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/managers/tp_worker.py", line 168, in __init__
+    self.random_seed = broadcast_pyobj(
+                       ^^^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/utils/common.py", line 1163, in broadcast_pyobj
+    dist.broadcast(tensor_size, src=src, group=dist_group)
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/torch/distributed/c10d_logger.py", line 81, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/torch/distributed/distributed_c10d.py", line 2830, in broadcast
+    work.wait()
+RuntimeError: [/pytorch/third_party/gloo/gloo/transport/tcp/pair.cc:544] Connection closed by peer [198.18.151.54]:722
+
+[2025-10-26 02:13:37 DP1 TP2 PP0] Scheduler hit an exception: Traceback (most recent call last):
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/managers/scheduler.py", line 2847, in run_scheduler_process
+    scheduler = Scheduler(
+                ^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/managers/scheduler.py", line 396, in __init__
+    self.tp_worker = TpWorkerClass(
+                     ^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/managers/tp_worker.py", line 168, in __init__
+    self.random_seed = broadcast_pyobj(
+                       ^^^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/utils/common.py", line 1163, in broadcast_pyobj
+    dist.broadcast(tensor_size, src=src, group=dist_group)
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/torch/distributed/c10d_logger.py", line 81, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/torch/distributed/distributed_c10d.py", line 2830, in broadcast
+    work.wait()
+RuntimeError: [/pytorch/third_party/gloo/gloo/transport/tcp/pair.cc:544] Connection closed by peer [198.18.151.54]:60636
+
+[2025-10-26 02:13:37 DP0 TP1 PP1] Scheduler hit an exception: Traceback (most recent call last):
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/managers/scheduler.py", line 2847, in run_scheduler_process
+    scheduler = Scheduler(
+                ^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/managers/scheduler.py", line 396, in __init__
+    self.tp_worker = TpWorkerClass(
+                     ^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/managers/tp_worker.py", line 168, in __init__
+    self.random_seed = broadcast_pyobj(
+                       ^^^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/utils/common.py", line 1163, in broadcast_pyobj
+    dist.broadcast(tensor_size, src=src, group=dist_group)
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/torch/distributed/c10d_logger.py", line 81, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/torch/distributed/distributed_c10d.py", line 2830, in broadcast
+    work.wait()
+RuntimeError: [/pytorch/third_party/gloo/gloo/transport/tcp/pair.cc:544] Connection closed by peer [198.18.151.54]:5844
+
+[2025-10-26 02:13:37 DP0 TP1 PP0] Scheduler hit an exception: Traceback (most recent call last):
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/managers/scheduler.py", line 2847, in run_scheduler_process
+    scheduler = Scheduler(
+                ^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/managers/scheduler.py", line 396, in __init__
+    self.tp_worker = TpWorkerClass(
+                     ^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/managers/tp_worker.py", line 168, in __init__
+    self.random_seed = broadcast_pyobj(
+                       ^^^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/utils/common.py", line 1163, in broadcast_pyobj
+    dist.broadcast(tensor_size, src=src, group=dist_group)
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/torch/distributed/c10d_logger.py", line 81, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/torch/distributed/distributed_c10d.py", line 2830, in broadcast
+    work.wait()
+RuntimeError: [/pytorch/third_party/gloo/gloo/transport/tcp/pair.cc:544] Connection closed by peer [198.18.151.54]:53980
+
+[2025-10-26 02:13:37 DP0 TP0 PP0] Scheduler hit an exception: Traceback (most recent call last):
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/managers/scheduler.py", line 2847, in run_scheduler_process
+    scheduler = Scheduler(
+                ^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/managers/scheduler.py", line 396, in __init__
+    self.tp_worker = TpWorkerClass(
+                     ^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/managers/tp_worker.py", line 168, in __init__
+    self.random_seed = broadcast_pyobj(
+                       ^^^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/utils/common.py", line 1158, in broadcast_pyobj
+    dist.broadcast(tensor_size, src=src, group=dist_group)
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/torch/distributed/c10d_logger.py", line 81, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/torch/distributed/distributed_c10d.py", line 2830, in broadcast
+    work.wait()
+RuntimeError: [/pytorch/third_party/gloo/gloo/transport/tcp/pair.cc:544] Connection closed by peer [198.18.151.54]:5775
+
+[2025-10-26 02:13:37 DP0 TP0 PP1] Scheduler hit an exception: Traceback (most recent call last):
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/managers/scheduler.py", line 2847, in run_scheduler_process
+    scheduler = Scheduler(
+                ^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/managers/scheduler.py", line 396, in __init__
+    self.tp_worker = TpWorkerClass(
+                     ^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/managers/tp_worker.py", line 168, in __init__
+    self.random_seed = broadcast_pyobj(
+                       ^^^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/utils/common.py", line 1163, in broadcast_pyobj
+    dist.broadcast(tensor_size, src=src, group=dist_group)
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/torch/distributed/c10d_logger.py", line 81, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/torch/distributed/distributed_c10d.py", line 2830, in broadcast
+    work.wait()
+RuntimeError: [/pytorch/third_party/gloo/gloo/transport/tcp/pair.cc:544] Connection closed by peer [198.18.151.54]:57543
+
+[2025-10-26 02:13:37 DP1 TP3 PP0] Scheduler hit an exception: Traceback (most recent call last):
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/managers/scheduler.py", line 2847, in run_scheduler_process
+    scheduler = Scheduler(
+                ^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/managers/scheduler.py", line 396, in __init__
+    self.tp_worker = TpWorkerClass(
+                     ^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/managers/tp_worker.py", line 168, in __init__
+    self.random_seed = broadcast_pyobj(
+                       ^^^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/sglang/srt/utils/common.py", line 1163, in broadcast_pyobj
+    dist.broadcast(tensor_size, src=src, group=dist_group)
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/torch/distributed/c10d_logger.py", line 81, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/apacsc40/anaconda3/envs/xbx_dpsk/lib/python3.12/site-packages/torch/distributed/distributed_c10d.py", line 2830, in broadcast
+    work.wait()
+RuntimeError: [/pytorch/third_party/gloo/gloo/transport/tcp/pair.cc:544] Connection closed by peer [198.18.151.54]:8411
+
+[rank5]:[W1026 02:13:38.585658398 ProcessGroupNCCL.cpp:1538] Warning: WARNING: destroy_process_group() was not called before program exit, which can leak resources. For more info, please see https://pytorch.org/docs/stable/distributed.html#shutdown (function operator())
+[rank6]:[W1026 02:13:38.677928067 ProcessGroupNCCL.cpp:1538] Warning: WARNING: destroy_process_group() was not called before program exit, which can leak resources. For more info, please see https://pytorch.org/docs/stable/distributed.html#shutdown (function operator())
+[rank0]:[W1026 02:13:38.681327645 ProcessGroupNCCL.cpp:1538] Warning: WARNING: destroy_process_group() was not called before program exit, which can leak resources. For more info, please see https://pytorch.org/docs/stable/distributed.html#shutdown (function operator())
+[rank3]:[W1026 02:13:38.684174413 ProcessGroupNCCL.cpp:1538] Warning: WARNING: destroy_process_group() was not called before program exit, which can leak resources. For more info, please see https://pytorch.org/docs/stable/distributed.html#shutdown (function operator())
+[rank7]:[W1026 02:13:38.684210006 ProcessGroupNCCL.cpp:1538] Warning: WARNING: destroy_process_group() was not called before program exit, which can leak resources. For more info, please see https://pytorch.org/docs/stable/distributed.html#shutdown (function operator())
+[rank2]:[W1026 02:13:38.701757015 ProcessGroupNCCL.cpp:1538] Warning: WARNING: destroy_process_group() was not called before program exit, which can leak resources. For more info, please see https://pytorch.org/docs/stable/distributed.html#shutdown (function operator())
+[rank4]:[W1026 02:13:38.705524887 ProcessGroupNCCL.cpp:1538] Warning: WARNING: destroy_process_group() was not called before program exit, which can leak resources. For more info, please see https://pytorch.org/docs/stable/distributed.html#shutdown (function operator())
+[rank1]:[W1026 02:13:38.733529182 ProcessGroupNCCL.cpp:1538] Warning: WARNING: destroy_process_group() was not called before program exit, which can leak resources. For more info, please see https://pytorch.org/docs/stable/distributed.html#shutdown (function operator())
