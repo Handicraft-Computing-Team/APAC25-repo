@@ -3,7 +3,7 @@
 
 APAC HPC-AI 2025 Student Competition
 
-Second Place (tie)
+### **Second Place (tie)**
 
 Competition Github repo: https://github.com/hpcac/2025-APAC-HPC-AI.git
 
@@ -310,5 +310,6 @@ Overall, our optimized setup achieved **significant end-to-end speedups** over t
 ![image.png](https://blog-1327458544.cos.ap-guangzhou.myqcloud.com/FinalYear/20251105105447479.png)
 
 ![image.png](https://blog-1327458544.cos.ap-guangzhou.myqcloud.com/FinalYear/20251105105457277.png)
+
 
 
